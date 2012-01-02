@@ -5,7 +5,7 @@ use strict;
 
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '0.01';
+our $VERSION = '0.02';
 
 my $data = { default => 'electronic' };
 my ($category2, $category3);
@@ -75,6 +75,8 @@ sub _dump_data {
 38;
 # Why 38? Hint: s/r$/t/
 
+=encoding utf8
+
 =head1 NAME
 
 Acme::MetaSyntactic::soviet -- NATO codenames for Soviet-designed equipment
@@ -125,7 +127,7 @@ The default category is 'electronic'.
 
 =head1 VERSION
 
-Version 0.01
+Version 0.02
 
 =head1 SYNOPSIS
 
@@ -167,7 +169,7 @@ I<Jane's World Aircraft Recognition Handbook>
 written by Derek Wood
 published by Janes in 1987
 (ISBN 0-7106-0343-6)
-abbreviated as I<WARH>.
+abbreviated as I<JWARH>.
 
 I<Air Superiority>
 designed by J.D. Webster
@@ -775,7 +777,7 @@ planes, helicopter or missiles.
 
 =item Badger
 
-Tu-16 bomber, WARH 37, 93, FDC 774, AWA 392.
+Tu-16 bomber, JWARH 37, 93, FDC 774, AWA 392.
 
 =item Backfin
 
@@ -783,7 +785,7 @@ Yak aircraft, number unknown, AWA 392.
 
 =item Backfire
 
-Tu-22M / Tu-26 variable geometry bomber, WARH 37, 189, FDC 775, AWA 392.
+Tu-22M / Tu-26 variable geometry bomber, JWARH 37, 189, FDC 775, AWA 392.
 
 =item Bank
 
@@ -799,11 +801,11 @@ Tu-2, AWA 392.
 
 =item Beagle
 
-Il-28 bomber, WARH 37, 216, AWA 392.
+Il-28 bomber, JWARH 37, 216, AWA 392.
 
 =item Bear
 
-Tu-95 bomber or Tu-142 bomber (Bear F and H), WARH 37, 121, FDC 774, AWA 392.
+Tu-95 bomber or Tu-142 bomber (Bear F and H), JWARH 37, 121, FDC 774, AWA 392.
 
 =item Beast
 
@@ -811,15 +813,15 @@ Il-10, AWA 392.
 
 =item Bison
 
-M-4 bomber, WARH 37, 94, AWA 392.
+M-4 bomber, JWARH 37, 94, AWA 392.
 
 =item Blackjack
 
-Tu supersonic bomber, WARH 37, AWA 392.
+Tu supersonic bomber, JWARH 37, AWA 392.
 
 =item Blinder
 
-Tu-22 bomber, WARH 37, 132, FDC 774, AWA 392.
+Tu-22 bomber, JWARH 37, 132, FDC 774, AWA 392.
 
 =item Blowlamp
 
@@ -855,7 +857,7 @@ Yak-25, AWA 392.
 
 =item Brewer
 
-Yak-28 strike / attack aircraft, WARH 37, 99, AWA 392.
+Yak-28 strike / attack aircraft, JWARH 37, 99, AWA 392.
 
 =item Buck
 
@@ -867,31 +869,31 @@ Tu-4 Heavy bomber based on the B-29, AWA 392.
 
 =item Cab
 
-Li-2 transport aircraft, based on the C-47, WARH 37.
+Li-2 transport aircraft, based on the C-47, JWARH 37.
 
 =item Camber
 
-Il-86 transport aircraft, WARH 37, 114, AWA 392.
+Il-86 transport aircraft, JWARH 37, 114, AWA 392.
 
 =item Camel
 
-Tu-104 transport aircraft, WARH 37, AWA 392.
+Tu-104 transport aircraft, JWARH 37, AWA 392.
 
 =item Camp
 
-An-8 transport aircraft, WARH 37, AWA 392.
+An-8 transport aircraft, JWARH 37, AWA 392.
 
 =item Candid
 
-Il-76 transport aircraft, PL 218, WARH 37, 118, AWA 392.
+Il-76 transport aircraft, PL 218, JWARH 37, 118, AWA 392.
 
 =item Careless
 
-Tu-154 transport aircraft, WARH 37, 134, AWA 392.
+Tu-154 transport aircraft, JWARH 37, 134, AWA 392.
 
 =item Cash
 
-An-28 transport aircraft, PL 221, WARH 37, 306, AWA 392.
+An-28 transport aircraft, PL 221, JWARH 37, 306, AWA 392.
 
 =item Cart
 
@@ -899,11 +901,11 @@ Tu-70, AWA 392.
 
 =item Cat
 
-An-10 transport aircraft, WARH 37, AWA 392.
+An-10 transport aircraft, JWARH 37, AWA 392.
 
 =item Charger
 
-Tu-144 supersonic airliner, WARH 37.
+Tu-144 supersonic airliner, JWARH 37.
 
 =item Clam
 
@@ -911,55 +913,55 @@ Ilyushin aircraft, number unknown, AWA 392.
 
 =item Clank
 
-An-30 transport aircraft, WARH 37, 28, AWA 392.
+An-30 transport aircraft, JWARH 37, 28, AWA 392.
 
 =item Classic
 
-Il-62 airliner, WARH 37, 138, AWA 392.
+Il-62 airliner, JWARH 37, 138, AWA 392.
 
 =item Cleat
 
-Tu-114 transport aircraft, WARH 37, AWA 392.
+Tu-114 transport aircraft, JWARH 37, AWA 392.
 
 =item Cline
 
-An-32 transport aircraft, PL 220, WARH 37, 288, AWA 392.
+An-32 transport aircraft, PL 220, JWARH 37, 288, AWA 392.
 
 =item Clobber
 
-Yak-42 airliner, WARH 37, 139, AWA 392.
+Yak-42 airliner, JWARH 37, 139, AWA 392.
 
 =item Clod
 
-An-14 transport aircraft, WARH 37, 305, AWA 392.
+An-14 transport aircraft, JWARH 37, 305, AWA 392.
 
 =item Coach
 
-Il-12 transport aircraft, WARH 37, AWA 392.
+Il-12 transport aircraft, JWARH 37, AWA 392.
 
 =item Coaler
 
-An-72/74 transport aircraft, PL 221, WARH 37, AWA 392.
+An-72/74 transport aircraft, PL 221, JWARH 37, AWA 392.
 
 =item Cock
 
-An-22 transport aircraft, PL 219, WARH 37, 329, AWA 392.
+An-22 transport aircraft, PL 219, JWARH 37, 329, AWA 392.
 
 =item Codling
 
-Yak-40 transport aircraft, WARH 37, 160, AWA 392.
+Yak-40 transport aircraft, JWARH 37, 160, AWA 392.
 
 =item Coke
 
-An-24 transport aircraft, WARH 37, 286, AWA 392.
+An-24 transport aircraft, JWARH 37, 286, AWA 392.
 
 =item Colt
 
-An-2 WW-2 vintage biplane transport aircraft, WARH 37, 469, AWA 392.
+An-2 WW-2 vintage biplane transport aircraft, JWARH 37, 469, AWA 392.
 
 =item Condor
 
-An-124 transport aircraft, PL 218, WARH 37, AWA 392.
+An-124 transport aircraft, PL 218, JWARH 37, AWA 392.
 
 =item Cooker
 
@@ -967,11 +969,11 @@ Tu-110, AWA 392.
 
 =item Cookpot
 
-Tu-124 transport aircraft, WARH 37.
+Tu-124 transport aircraft, JWARH 37.
 
 =item Coot
 
-Il-18 / Il-20 airliner, WARH 38, 315, AWA 392.
+Il-18 / Il-20 airliner, JWARH 38, 315, AWA 392.
 
 =item Cork
 
@@ -979,11 +981,11 @@ Yak-16, AWA 392.
 
 =item Crate
 
-Il-14 airliner, WARH 38, 228, AWA 392.
+Il-14 airliner, JWARH 38, 228, AWA 392.
 
 =item Creek
 
-Yak-12 transport aircraft, WARH 38, AWA 392.
+Yak-12 transport aircraft, JWARH 38, AWA 392.
 
 =item Crow
 
@@ -991,23 +993,23 @@ Yak-10, AWA 392.
 
 =item Crusty
 
-Tu-134 transport aircraft, WARH 38, 133, AWA 392.
+Tu-134 transport aircraft, JWARH 38, 133, AWA 392.
 
 =item Cub
 
-An-12 transport aircraft, PL 219, WARH 38, 327, AWA 392.
+An-12 transport aircraft, PL 219, JWARH 38, 327, AWA 392.
 
 =item Cuff
 
-Be-30 transport aircraft, WARH 38.
+Be-30 transport aircraft, JWARH 38.
 
 =item Curl
 
-An-26 transport aircraft, PL 220, WARH 38, 286, AWA 392.
+An-26 transport aircraft, PL 220, JWARH 38, 286, AWA 392.
 
 =item Fagot
 
-MiG-15bis, WARH 38, DF.
+MiG-15bis, JWARH 38, DF, AWA 392.
 
 =item Fang
 
@@ -1021,13 +1023,9 @@ La-15 fighter, AWA 392.
 
 MiG-9 fighter, AWA 392.
 
-=item Fagot
-
-MiG-15 fighter, AWA 392.
-
 =item Farmer
 
-MiG-19 fighter, PL 213, WARH 38, 56, DF, AWA 392.
+MiG-19 fighter, PL 213, JWARH 38, 56, DF, AWA 392.
 
 =item Feather
 
@@ -1035,11 +1033,11 @@ Yak-17 fighter, AWA 392.
 
 =item Fencer
 
-Su-24 variable geometry strike fighter, PL 211, WARH 38, 187, ASt, AWA 392.
+Su-24 variable geometry strike fighter, PL 211, JWARH 38, 187, ASt, AWA 392.
 
 =item Fiddler
 
-Tu-28 and Tu-118 fighters, PL 223, WARH 38, 75, AWA 392.
+Tu-28 and Tu-118 fighters, PL 223, JWARH 38, 75, AWA 392.
 
 =item Fin
 
@@ -1047,28 +1045,28 @@ La-7 fighter, AWA 392.
 
 =item Firebar
 
-Yak-28 fighter, PL 222, WARH 38, 98, AWA 392.
+Yak-28 fighter, PL 222, JWARH 38, 98, AWA 392.
 
 =item Fishbed
 
-MiG-21 fighter, PL 211, WARH 38, 177, ASu, DF, AWA 392.
+MiG-21 fighter, PL 211, JWARH 38, 177, ASu, DF, AWA 392.
 
 =item Fishpot
 
-Su-9/Su-11 fighter, PL 222, WARH 38, 176, AWA 392.
+Su-9/Su-11 fighter, PL 222, JWARH 38, 176, AWA 392.
 
 =item Fitter
 
 Su-7 fighter (Fitter A) or Su-17/20/22 variable geometry fighter (Fitter C and D) or
-Su-17 fighter (Fitter K), PL 212, WARH 38, 57, 186, ASu, FDC 775, AWA 392.
+Su-17 fighter (Fitter K), PL 212, JWARH 38, 57, 186, ASu, FDC 775, AWA 392.
 
 =item Flagon
 
-Su-21 fighter aircraft, PL 222. Or Su-15 fighter, WARH 38, 175, ASu, DF, AWA 392.
+Su-21 fighter aircraft, PL 222. Or Su-15 fighter, JWARH 38, 175, ASu, DF, AWA 392.
 
 =item Flanker
 
-Su-27 fighter, PL 208, WARH 38, 88, ASu, AWA 392.
+Su-27 fighter, PL 208, JWARH 38, 88, ASu, AWA 392.
 
 =item Flashlight
 
@@ -1077,7 +1075,7 @@ Yak-25 and Yak-27 fighters, AWA 392.
 =item Flogger
 
 MiG-23 variable geometry fighter (Flogger A and G) or MiG-27 variable geometry
-fighter (Flogger D and J), PL 210, WARH 38, 184, 185, ASu, ASt, DF, AWA 392.
+fighter (Flogger D and J), PL 210, JWARH 38, 184, 185, ASu, ASt, DF, AWA 392.
 
 =item Flora
 
@@ -1085,15 +1083,15 @@ Yak-23 fighter, AWA 392.
 
 =item Forger
 
-Yak-38 VSTOL fighter, PL 214, WARH 38, 64, FDC 775, AWA 392.
+Yak-38 VSTOL fighter, PL 214, JWARH 38, 64, FDC 775, AWA 392.
 
 =item Foxbat
 
-MiG-25 interceptor, PL 223, 224, WARH 38, 85, DF, AWA 392.
+MiG-25 interceptor, PL 223, 224, JWARH 38, 85, DF, AWA 392.
 
 =item Foxhound
 
-MiG-31 interceptor, PL 224, WARH 38, 86, ASu, AWA 392.
+MiG-31 interceptor, PL 224, JWARH 38, 86, ASu, AWA 392.
 
 =item Frank
 
@@ -1105,7 +1103,7 @@ Lend-lease P-63 fighter, AWA 392.
 
 =item Fresco
 
-MiG-17 fighter, PL 213, WARH 38, 55, DF, AWA 392.
+MiG-17 fighter, PL 213, JWARH 38, 55, DF, AWA 392.
 
 =item Fritz
 
@@ -1113,19 +1111,19 @@ La-9 fighter, AWA 392.
 
 =item Frogfoot
 
-Su-25 attack aircraft, PL 209, WARH 38, 212, ASt, AWA 392.
+Su-25 attack aircraft, PL 209, JWARH 38, 212, ASt, AWA 392.
 
 =item Fulcrum
 
-MiG-29 fighter, PL 208, WARH 38, 87, ASu, AWA 392.
+MiG-29 fighter, PL 208, JWARH 38, 87, ASu, AWA 392.
 
 =item Madge
 
-Be-6 flying boat, WARH 38, AWA 392.
+Be-6 flying boat, JWARH 38, AWA 392.
 
 =item Maestro
 
-Yak-28U trainer version of Firebar and Brewer, WARH 38, AWA 392.
+Yak-28U trainer version of Firebar and Brewer, JWARH 38, AWA 392.
 
 =item Magnet
 
@@ -1133,32 +1131,32 @@ Yak-17U, AWA 392.
 
 =item Magnum
 
-Yak-30 aircraft, WARH 38.
+Yak-30 aircraft, JWARH 38.
 
 =item Maiden
 
-Su-11U variant of Fishpot, WARH 38, AWA 392.
+Su-11U variant of Fishpot, JWARH 38, AWA 392.
 
 =item Mail
 
-Be-12 amphibian aircraft, WARH 39, 460, FDC 775, AWA 392. AWA 392 gives
+Be-12 amphibian aircraft, JWARH 39, 460, FDC 775, AWA 392. AWA 392 gives
 also the M-12 designation.
 
 =item Mainstay
 
-Airborne radar aircraft, WARH 39, AWA 392.
+Airborne radar aircraft, JWARH 39, AWA 392.
 
 =item Mandrake
 
-Reconnaissance aircraft, WARH 39, AWA 392.
+Reconnaissance aircraft, JWARH 39, AWA 392.
 
 =item Mangrove
 
-Yak-27 reconnaissance aircraft, WARH 39, AWA 392.
+Yak-27 reconnaissance aircraft, JWARH 39, AWA 392.
 
 =item Mantis
 
-Yak-32 trainer, WARH 39.
+Yak-32 trainer, JWARH 39.
 
 =item Mare
 
@@ -1170,15 +1168,15 @@ Yak-7U, AWA 392.
 
 =item Mascot
 
-Il-28U trainer, WARH 39, AWA 392.
+Il-28U trainer, JWARH 39, AWA 392.
 
 =item Max
 
-Yak-18 trainer, WARH 39, 360, AWA 392.
+Yak-18 trainer, JWARH 39, 360, AWA 392.
 
 =item May
 
-Il-38 maritime reconnaissance aircraft, WARH 39, 316, FDC 775, AWA 392.
+Il-38 maritime reconnaissance aircraft, JWARH 39, 316, FDC 775, AWA 392.
 
 =item Maya
 
@@ -1190,7 +1188,7 @@ Il-76FR, AWA 392.
 
 =item Midget
 
-MiG-15UTI trainer aircraft, WARH 39, 54, AWA 392.
+MiG-15UTI trainer aircraft, JWARH 39, 54, AWA 392.
 
 =item Mink
 
@@ -1202,11 +1200,11 @@ Be-8, AWA 392.
 
 =item Mongol
 
-MiG-21U trainer aircraft, WARH 39, AWA 392.
+MiG-21U trainer aircraft, JWARH 39, AWA 392.
 
 =item Moose
 
-Yak-18P trainer aircraft, WARH 39, 360, AWA 392.
+Yak-18P trainer aircraft, JWARH 39, 360, AWA 392.
 
 =item Mop
 
@@ -1214,7 +1212,7 @@ Lend-lease PBY Catalina, AWA 392.
 
 =item Moss
 
-Tu-126 airborne early warning aircraft, WARH 39, 122, AWA 392.
+Tu-126 airborne early warning aircraft, JWARH 39, 122, AWA 392.
 
 =item Mote
 
@@ -1222,7 +1220,7 @@ Be-2, AWA 392.
 
 =item Moujik
 
-Su-7U trainer aircraft, WARH 39, AWA 392.
+Su-7U trainer aircraft, JWARH 39, AWA 392.
 
 =item Mug
 
@@ -1230,7 +1228,7 @@ Be-4, AWA 392.
 
 =item Mule
 
-Po-2 utility aircraft, WARH 39, AWA 392.
+Po-2 utility aircraft, JWARH 39, AWA 392.
 
 =back
 
@@ -1245,67 +1243,67 @@ AWA, because there are two lines with Mi-10: Hake and Harke.
 
 =item Halo
 
-Mi-26 heavy transport helicopter, PL 201, WARH 38, 538, AWA 392.
+Mi-26 heavy transport helicopter, PL 201, JWARH 38, 538, AWA 392.
 
 =item Hare
 
-Mi-1 / Mi-3 light helicopter, WARH 38, 509, AWA 392.
+Mi-1 / Mi-3 light helicopter, JWARH 38, 509, AWA 392.
 
 =item Harke
 
-Mi-10 heavy transport helicopter, PL 202, WARH 38, 539, AWA 392.
+Mi-10 heavy transport helicopter, PL 202, JWARH 38, 539, AWA 392.
 
 =item Havoc
 
-Mi-28 attack helicopter, PL 198, WARH 38, AWA 392.
+Mi-28 attack helicopter, PL 198, JWARH 38, AWA 392.
 
 =item Haze
 
-Mi-14 naval helicopter, WARH 38, 529, FDC 775, AWA 392.
+Mi-14 naval helicopter, JWARH 38, 529, FDC 775, AWA 392.
 
 =item Helix
 
-Ka-27 or Ka-32 naval transport and support medium helicopter, PL 201, WARH 38, 542, FDC 775, AWA 392.
+Ka-27 or Ka-32 naval transport and support medium helicopter, PL 201, JWARH 38, 542, FDC 775, AWA 392.
 
 =item Hen
 
-Ka-15 light helicopter, WARH 38, AWA 392.
+Ka-15 light helicopter, JWARH 38, AWA 392.
 
 =item Hind
 
-Mi-24 / Mi-25 attack and transport helicopter, PL 199, WARH 38, 530, AWA 392.
+Mi-24 / Mi-25 attack and transport helicopter, PL 199, JWARH 38, 530, AWA 392.
 
 =item Hip
 
-Mi-8 or Mi-17 medium transport and support helicopter, PL 203, WARH 38, 528, FDC 775, AWA 392.
+Mi-8 or Mi-17 medium transport and support helicopter, PL 203, JWARH 38, 528, FDC 775, AWA 392.
 
 =item Hog
 
-Ka-18 light helicopter, WARH 38, AWA 392.
+Ka-18 light helicopter, JWARH 38, AWA 392.
 
 =item Hokum
 
-Attack helicopter designed by Kamov, PL 198, WARH 38, AWA 392.
-
-=item Hoodlum
-
-Ka-26 light transport helicopter, PL 200, WARH 38, 543, AWA 392.
+Attack helicopter designed by Kamov, PL 198, JWARH 38, AWA 392.
 
 =item Homer
 
 Mi-12, AWA 392.
 
+=item Hoodlum
+
+Ka-26 light transport helicopter, PL 200, JWARH 38, 543, AWA 392.
+
 =item Hook
 
-Mi-6 heavy transport helicopter, PL 202, WARH 38, 537, AWA 392.
+Mi-6 heavy transport helicopter, PL 202, JWARH 38, 537, AWA 392.
 
 =item Hoplite
 
-Mi-2  light transport and support helicopter, PL 204, WARH 38, 513, AWA 392.
+Mi-2  light transport and support helicopter, PL 204, JWARH 38, 513, AWA 392.
 
 =item Hormone
 
-Ka-25 naval helicopter, WARH 38, 541, FDC 775, AWA 392.
+Ka-25 naval helicopter, JWARH 38, 541, FDC 775, AWA 392.
 
 =item Horse
 
@@ -1313,7 +1311,7 @@ Yak-24, AWA 392.
 
 =item Hound
 
-Mi-4  medium transport and support helicopter, PL 204, WARH 38, 515, AWA 392.
+Mi-4  medium transport and support helicopter, PL 204, JWARH 38, 515, AWA 392.
 
 =back
 
@@ -1330,13 +1328,13 @@ the ground-to-xxx variant (no "N") and the ship-to-xxx variant
 
 =item Acrid
 
-AA-6 air-to-air missile, PL 223, WARH 30, DF.
+AA-6 air-to-air missile, PL 223, JWARH 30, DF.
 
 =item Alamo
 
 AA-10 air-to-air missile, PL 225, ASu, DF.
 
-=item Aklkali
+=item Alkali
 
 AA-1 air-to-air missile, PL 213.
 
@@ -1346,15 +1344,15 @@ AA-9 air-to-air missile, PL 224, ASu.
 
 =item Anab
 
-AA-3 air-to-air missile, PL 222, WARH 29, ASu.
+AA-3 air-to-air missile, PL 222, JWARH 29, ASu.
 
 =item Apex
 
-AA-7 air-to-air missile, PL 208, 210, 211, 224, WARH 29, ASu.
+AA-7 air-to-air missile, PL 208, 210, 211, 224, JWARH 29, ASu.
 
 =item Aphid
 
-AA-8 air-to-air missile, PL 208, 210, 211, 214, 224, WARH 29, ASu.
+AA-8 air-to-air missile, PL 208, 210, 211, 214, 224, JWARH 29, ASu.
 
 =item Archer
 
@@ -1362,11 +1360,11 @@ AA-11 air-to-air missile, PL 225.
 
 =item Ash
 
-AA-5 air-to-air missile, PL 223, WARH 29, DF.
+AA-5 air-to-air missile, PL 223, JWARH 29, DF.
 
 =item Atoll
 
-AA-2 air-to-air missile, PL 210, 213, 222, WARH 30, DF.
+AA-2 air-to-air missile, PL 210, 213, 222, JWARH 30, DF.
 
 =item Frog
 
@@ -1422,7 +1420,7 @@ SA-10 / SA-N-6 anti-aircraft missile, PL 115, FDC 755.
 
 =item Kangroo
 
-AS-3 air-to-ground missile (surely a typo for kangaroo), WARH 25.
+AS-3 air-to-ground missile (surely a typo for kangaroo), JWARH 25.
 
 =item Karen
 
@@ -1434,7 +1432,7 @@ AS-14 air-to-ground missile, PL 211, 226.
 
 =item Kelt
 
-AS-5 air-to-ground missile, WARH 25, FDC 756.
+AS-5 air-to-ground missile, JWARH 25, FDC 756.
 
 =item Kent
 
@@ -1442,23 +1440,15 @@ AS-15 air-to-ground missile, FDC 756.
 
 =item Kerry
 
-AS-7 air-to-ground missile, FDC 756.
-
-=item Kangroo
-
-AS-1 air-to-ground missile, WARH 25.
-
-=item Kerry
-
-AS-7 air-to-ground missile, PL 209, 212, 214, 226, WARH 27, FDC 756.
+AS-7 air-to-ground missile, PL 209, 212, 214, 226, JWARH 27, FDC 756.
 
 =item Kingfish
 
-AS-6 air-to-ground missile, FDC 756, named Kingfisher by WARH 25.
+AS-6 air-to-ground missile, FDC 756, named Kingfisher by JWARH 25.
 
 =item Kipper
 
-AS-2 air-to-ground missile, WARH 25, FDC 756.
+AS-2 air-to-ground missile, JWARH 25, FDC 756.
 
 =item Kitchen
 
@@ -1496,13 +1486,13 @@ SS-21, PL 95.
 
 SS-NX-24 cruise missile, FDC 755.
 
-=item Serb
-
-SS-N-6 ballistic missile, FDC 754.
-
 =item Scud
 
 SS1-C, PL 96.
+
+=item Serb
+
+SS-N-6 ballistic missile, FDC 754.
 
 =item Shaddock
 
@@ -1650,7 +1640,7 @@ L<http://search.cpan.org/dist/Acme-MetaSyntactic-soviet>
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2008 Jean Forget, all rights reserved.
+Copyright 2008, 2012 Jean Forget, all rights reserved.
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.

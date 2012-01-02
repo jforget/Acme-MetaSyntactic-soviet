@@ -1,5 +1,9 @@
 Revision history for Acme-MetaSyntactic-soviet
 
+0.02    2012-01-02, 45th anniversary of Operation Bolo
+        Fixed some typos duplicates and sort errors
+        Added a version prerequisite to Makefile.PL, to attempt to prevent "FAIL" reports by CPAN Testers
+
 0.01    2008-10-23
         First version, released on the 46th anniversary of the blockade against Cuba
 

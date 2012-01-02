@@ -7,6 +7,10 @@ my $builder = Module::Build->new(
     license             => 'perl',
     dist_author         => 'Jean Forget <JFORGET@cpan.org>',
     dist_version_from   => 'lib/Acme/MetaSyntactic/soviet.pm',
+    dist_abstract       => 'Metasyntactic theme with NATO codenames for Soviet-designed equipment',
+    configure_requires => {
+	'Module::Build' => 0.33,
+    },
     build_requires => {
 	'Acme::MetaSyntactic::MultiList' => 0,
         'Test::More' => 0,

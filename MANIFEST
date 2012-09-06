@@ -2,6 +2,7 @@ Build.PL
 Changes
 MANIFEST
 Makefile.PL
+META.json
 README
 lib/Acme/MetaSyntactic/soviet.pm
 t/00-load.t
@@ -9,6 +10,7 @@ t/01-default.t
 t/02-elec.t
 t/03-radars.t
 t/04-misc.t
+t/05-submarines.t
 t/05-vehicles.t
 t/06-aircraft.t
 t/07-helicopters.t
@@ -16,7 +18,7 @@ t/08-missiles.t
 t/09-errors.t
 t/10-all.t
 t/boilerplate.t
+t/metasyntactic.t
 t/pod-coverage.t
 t/pod.t
 META.yml
-META.json

@@ -1,43 +1,42 @@
 {
-   "abstract" : "unknown",
+   "abstract" : "Metasyntactic theme with NATO codenames for Soviet-designed equipment",
    "author" : [
-      "unknown"
+      "Jean Forget <JFORGET@cpan.org>"
    ],
    "dynamic_config" : 1,
-   "generated_by" : "ExtUtils::MakeMaker version 6.62, CPAN::Meta::Converter version 2.112621",
+   "generated_by" : "Module::Build version 0.4001, CPAN::Meta::Converter version 2.110930",
    "license" : [
-      "unknown"
+      "perl_5"
    ],
    "meta-spec" : {
       "url" : "http://search.cpan.org/perldoc?CPAN::Meta::Spec",
       "version" : "2"
    },
    "name" : "Acme-MetaSyntactic-soviet",
-   "no_index" : {
-      "directory" : [
-         "t",
-         "inc"
-      ]
-   },
    "prereqs" : {
       "build" : {
          "requires" : {
-            "ExtUtils::MakeMaker" : 0
+            "Acme::MetaSyntactic::MultiList" : "1",
+            "Test::More" : 0
          }
       },
       "configure" : {
          "requires" : {
-            "ExtUtils::MakeMaker" : 0
-         }
-      },
-      "runtime" : {
-         "requires" : {
-            "Acme::MetaSyntactic::MultiList" : 0,
-            "ExtUtils::MakeMaker" : "6.56",
-            "Test::More" : 0
+            "Module::Build" : "0.33"
          }
       }
    },
+   "provides" : {
+      "Acme::MetaSyntactic::soviet" : {
+         "file" : "lib/Acme/MetaSyntactic/soviet.pm",
+         "version" : "0.03"
+      }
+   },
    "release_status" : "stable",
-   "version" : "0.02"
+   "resources" : {
+      "license" : [
+         "http://dev.perl.org/licenses/"
+      ]
+   },
+   "version" : "0.03"
 }

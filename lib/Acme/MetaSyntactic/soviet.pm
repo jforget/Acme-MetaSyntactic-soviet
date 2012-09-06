@@ -1,3 +1,24 @@
+# -*- encoding: utf-8; indent-tabs-mode: nil -*-
+#
+#     Acme::MetaSyntactic::soviet -- NATO codenames for Soviet-designed equipment
+#
+#     Copyright (C) 2008, 2012 Jean Forget
+# 
+#     This program is free software; you can redistribute it and/or modify
+#     it under the same terms as Perl: either the Artistic License,
+#     or the GNU General Public License as published by
+#     the Free Software Foundation; either version 1, or (at your option)
+#     any later version.
+# 
+#     This program is distributed in the hope that it will be useful,
+#     but WITHOUT ANY WARRANTY; without even the implied warranty of
+#     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+#     GNU General Public License for more details.
+# 
+#     You should have received a copy of the GNU General Public License and
+#     the Artistic License along with this program; if not, write to the Free
+#     Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA
+#     02111-1307, USA for the GNU General Public License.
 package Acme::MetaSyntactic::soviet;
 
 use warnings;
@@ -5,16 +26,13 @@ use strict;
 
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '0.02';
+our $VERSION = '0.03';
 
 my $data = { default => 'electronic' };
 my ($category2, $category3);
 my %seen;
 
-# Commented-out statements, reactivated each time I refresh __DATA__
-# while also reactivating the commented-out __DATA__ tag at the beginning of the POD
-#_load_data_from_pod();
-#_dump_data();
+_load_data_from_pod();
 
 __PACKAGE__->init($data);
 
@@ -36,41 +54,19 @@ sub _load_data_from_pod {
       $name =~ s/_+/_/g;
       $seen{$name} = 1;
     }
+    elsif (/^=head1/) {
+      last;
+    }
   }
   _flush_category();
 }
 
 sub _flush_category {
   if ($category2 and %seen) {
-    if ($category3) {
-      $data->{$category2}{$category3} = join ' ', sort keys %seen;
-    }
-    else {
-      $data->{$category2} = join ' ', sort keys %seen;
-    }
+    $data->{names}{$category2}{$category3} = join ' ', sort keys %seen;
   }
   %seen = ();
 }
-# Provisional function, used to regenerate the __DATA__ element of the module,
-# until ticket 40116 is fixed
-
-sub _dump_data {
-  print "# default\n$data->{default}\n";
-  foreach my $k1 (keys %$data) {
-    if ($k1 eq 'default') {
-      next;
-    }
-    elsif (!ref($data->{$k1})) {
-      print "# names $k1\n$data->{$k1}\n";
-    }
-    else {
-      foreach (keys %{$data->{$k1}}) {
-        print "# names $k1 $_\n$data->{$k1}{$_}\n";
-      }
-    }
-  }
-}
-
 
 38;
 # Why 38? Hint: s/r$/t/
@@ -83,9 +79,9 @@ Acme::MetaSyntactic::soviet -- NATO codenames for Soviet-designed equipment
 
 =head1 DESCRIPTION
 
-Some codenames given by NATO to Soviet-designed aircraft, missiles, radars
-and other electronic systems. The various categories and sub-categories
-are
+Some codenames  given by  NATO to Soviet-designed  aircraft, missiles,
+radars  and  other  electronic  systems. The  various  categories  and
+sub-categories are
 
 =over 4
 
@@ -127,7 +123,8 @@ The default category is 'electronic'.
 
 =head1 VERSION
 
-Version 0.02
+This  is version  0.03, the  "Foxbat"  version, released  on the  36th
+anniversary of Belenko's flight (flying or fleeing?) to Japan.
 
 =head1 SYNOPSIS
 
@@ -148,17 +145,16 @@ read:
 
 Jean Forget
 
-Not yet introduced in Acme::MetaSyntactic, but published
-separately on 23rd October 2008, 46th anniversary of the blockade of Cuba.
+Not  yet  introduced in  Acme::MetaSyntactic,  but  version 0.01,  the
+"Sandal" version, was published  separately on 23rd October 2008, 46th
+anniversary of the blockade of Cuba.
 
 =head1 SOURCES
 
-Note: I have used only sources published I<before> the
-fall of the Soviet Union. Therefore, the module name
-is C<A::MS::soviet>, with no "ex-" prefix.
-For each entry, the sources are listed, with 
-page numbers for the books. The games use data cards,
-which are unnumbered.
+Note: I  have used  only sources published  I<before> the fall  of the
+Soviet Union. Therefore, the  module name is C<A::MS::soviet>, with no
+"ex-"  prefix.  For  each entry,  the  sources are  listed, with  page
+numbers for the books. The games use data cards, which are unnumbered.
 
 I<Pat-Led-1>
 written by J-J Patry and P. Lederer
@@ -205,15 +201,14 @@ abreviated as I<AWA>.
 
 =cut
 
-# __DATA__
+__DATA__
 
 =head2 ELECTRONIC
 
-The codenames for electronic devices are composed of two
-words. As you can notice, similar devices share one word
-and differ with the other word, e.g. Scan Fix and Scan Odd. 
-You may find in other sources these codenames aggregated
-as a single word, e.g. Barlock. 
+The codenames for electronic devices are composed of two words. As you
+can notice, similar  devices share one word and  differ with the other
+word, e.g. Scan Fix and Scan Odd.  You may find in other sources these
+codenames aggregated as a single word, e.g. Barlock.
 
 =head3 RADARS
 
@@ -551,8 +546,8 @@ Aircraft acquisition radar, PL 122.
 
 =head3 MISC
 
-This category lists some electronic devices other than radars:
-sonars, ECM devices, etc.
+This category lists some electronic devices other than radars: sonars,
+ECM devices, etc.
 
 =over 4
 
@@ -768,8 +763,188 @@ Electronic warfare, FDC 760.
 
 =head2 VEHICLES
 
-This category lists flying vehicles. These vehicles are
-planes, helicopter or missiles. 
+This category  lists flying  vehicles. These vehicles  are submarines,
+planes, helicopter or missiles.
+
+=head3 SUBMARINES
+
+=over 4
+
+=item Akula
+
+Nuclear-powered attack submarine (SSN), FDC 790.
+
+=item Alfa
+
+Nuclear-powered attack submarine (SSN), FDC 789.
+
+=item Beluga
+
+Attack submarine (SS), FDC 794.
+
+=item Bravo
+
+Auxiliary / rescue submarine (SST), FDC 798.
+
+=item Charlie I
+
+Nuclear-powered aerodynamic missile submarine (SSGN), FDC 785.
+
+=item Charlie II
+
+Nuclear-powered aerodynamic missile submarine (SSGN), FDC 785.
+
+=item Delta I
+
+Nuclear-powered ballistic missile submarine (SSBN), FDC 781.
+
+=item Delta II
+
+Nuclear-powered ballistic missile submarine (SSBN), FDC 781.
+
+=item Delta III
+
+Nuclear-powered ballistic missile submarine (SSBN), FDC 780.
+
+=item Delta IV
+
+Nuclear-powered ballistic missile submarine (SSBN), FDC 780.
+
+=item Echo
+
+Nuclear-powered attack submarine (SSN), FDC 793.
+
+=item Echo II
+
+Nuclear-powered aerodynamic missile submarine (SSGN), FDC 786
+or nuclear-powered auxiliary / rescue submarine (SSAN), FDC 797.
+
+=item Echo II Mod
+
+Nuclear-powered aerodynamic missile submarine (SSGN), FDC 786.
+
+=item Fox Trot
+
+Attack submarine (SS), FDC 795.
+
+=item Golf II
+
+Ballistic missile submarine (SSB), FDC 783.
+
+=item Golf II Mod
+
+Command submarine (SSQ), FDC 798.
+
+=item Hotel II
+
+Nuclear-powered command submarine (SSQN), FDC 798.
+
+=item Hotel III
+
+Nuclear-powered ballistic missile submarine (SSBN), FDC 782.
+
+=item India
+
+Auxiliary / rescue submarine (SSA), FDC 797.
+
+=item Juliett
+
+Aerodynamic missile submarine (SSG), FDC 788.
+
+=item Juliett Mod
+
+Aerodynamic missile submarine (SSG), FDC 788.
+
+=item Kilo
+
+Attack submarine (SS), FDC 794.
+
+=item Lima
+
+Auxiliary / rescue submarine (SSA), FDC 797.
+
+=item Mir
+
+Tracked rescue submarine, FDC 798.
+
+=item November
+
+Nuclear-powered attack submarine (SSN), FDC 793.
+
+=item Oscar I
+
+Nuclear-powered aerodynamic missile submarine (SSGN), FDC 784.
+
+=item Oscar II
+
+Nuclear-powered aerodynamic missile submarine (SSGN), FDC 783.
+
+=item Papa
+
+Nuclear-powered aerodynamic missile submarine (SSGN), FDC 785.
+
+=item Romeo
+
+Attack submarine (SS), FDC 796.
+
+=item Sierra
+
+Nuclear-powered attack submarine (SSN), FDC 790.
+
+=item Tango
+
+Attack submarine (SS), FDC 795.
+
+=item Typhoon
+
+Nuclear-powered ballistic missile submarine (SSBN), FDC 779.
+
+=item Uniform
+
+Nuclear-powered auxiliary / rescue submarine (SSAN), FDC 797.
+
+=item Victor I
+
+Nuclear-powered attack submarine (SSN), FDC 793.
+
+=item Victor II
+
+Nuclear-powered attack submarine (SSN), FDC 792.
+
+=item Victor III
+
+Nuclear-powered attack submarine (SSN), FDC 791.
+
+=item Whiskey
+
+Attack submarine (SS), FDC 796.
+
+=item X Ray
+
+Nuclear-powered auxiliary / rescue submarine (SSAN), FDC 798.
+
+=item Yankee I
+
+Nuclear-powered ballistic missile submarine (SSBN), FDC 782
+or nuclear-powered attack submarine (SSN), FDC 794.
+
+=item Yankee II
+
+Nuclear-powered ballistic missile submarine (SSBN), FDC 781.
+
+=item Yankee Notch
+
+Nuclear-powered aerodynamic missile submarine (SSGN), FDC 787.
+
+=item Zulu IV
+
+Auxiliary / rescue submarine (SSA), FDC 797.
+
+=item Zulu V
+
+Auxiliary / rescue submarine (SSA), FDC 797.
+
+=back
 
 =head3 AIRCRAFT
 
@@ -1018,6 +1193,10 @@ La-11 fighter, AWA 392.
 =item Fantail
 
 La-15 fighter, AWA 392.
+
+=item Fagot
+
+MiG-15 fighter, AWA 392.
 
 =item Fargo
 
@@ -1317,12 +1496,12 @@ Mi-4  medium transport and support helicopter, PL 204, JWARH 38, 515, AWA 392.
 
 =head3 MISSILES
 
-This category lists Soviet missiles with the NATO codename
-and the US designation. The missiles' Soviet designations were still a
-secret at the time of the Soviet Union collapse.
-You will note that the US designation is different between
-the ground-to-xxx variant (no "N") and the ship-to-xxx variant
-(with a "N"), while the NATO codename is the same.
+This category lists Soviet missiles  with the NATO codename and the US
+designation. The missiles' Soviet  designations were still a secret at
+the time  of the  Soviet Union  collapse.  You will  note that  the US
+designation is  different between  the ground-to-xxx variant  (no "N")
+and the ship-to-xxx  variant (with a "N"), while  the NATO codename is
+the same.
 
 =over 4
 
@@ -1578,8 +1757,8 @@ AT-2 antiarmour missile, PL 227.
 
 =head3 ERRORS
 
-AWA gives a few designations marked as wrong designations.
-Here they are, for the sake of completeness.
+AWA gives a few designations  marked as wrong designations.  Here they
+are, for the sake of completeness.
 
 =over 4
 
@@ -1601,12 +1780,12 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::MultiList>.
 
 =head1 BUGS
 
-Please report any bugs or feature requests to C<bug-acme-metasyntactic-soviet at rt.cpan.org>, or through
-the web interface at L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Acme-MetaSyntactic-soviet>.  I will be notified, and then you'll
-automatically be notified of progress on your bug as I make changes.
-
-
-
+Please report any bugs or feature requests to
+C<bug-acme-metasyntactic-soviet at rt.cpan.org>,
+or through the web interface at
+L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Acme-MetaSyntactic-soviet>.
+I will be notified, and then you'll automatically be notified of
+progress on your bug as I make changes.
 
 =head1 SUPPORT
 
@@ -1642,25 +1821,8 @@ L<http://search.cpan.org/dist/Acme-MetaSyntactic-soviet>
 
 Copyright 2008, 2012 Jean Forget, all rights reserved.
 
-This program is free software; you can redistribute it and/or modify it
+This program is free software; you can redistribute it and you can modify it
 under the same terms as Perl itself.
 
 =cut
-
-__DATA__
-
-# default
-electronic
-# names vehicles helicopters
-Hake Halo Hare Harke Havoc Haze Helix Hen Hind Hip Hog Hokum Homer Hoodlum Hook Hoplite Hormone Horse Hound
-# names vehicles errors
-Faceplate Flipper
-# names vehicles aircraft
-Backfin Backfire Badger Bank Bark Bat Beagle Bear Beast Bison Blackjack Blinder Blowlamp Bob Boot Bosun Bounder Box Brassard Brawny Brewer Buck Bull Cab Camber Camel Camp Candid Careless Cart Cash Cat Charger Clam Clank Classic Cleat Cline Clobber Clod Coach Coaler Cock Codling Coke Colt Condor Cooker Cookpot Coot Cork Crate Creek Crow Crusty Cub Cuff Curl Fagot Fang Fantail Fargo Farmer Feather Fencer Fiddler Fin Firebar Fishbed Fishpot Fitter Flagon Flanker Flashlight Flogger Flora Forger Foxbat Foxhound Frank Fred Fresco Fritz Frogfoot Fulcrum Madge Maestro Magnet Magnum Maiden Mail Mainstay Mandrake Mangrove Mantis Mare Mark Mascot Max May Maya Midas Midget Mink Mole Mongol Moose Mop Moss Mote Moujik Mug Mule
-# names vehicles missiles
-Acrid Aklkali Alamo Amos Anab Apex Aphid Archer Ash Atoll Frog Gadfly Gainful Ganef Gaskin Gecko Gladiator Goa Goblet Gopher Grail Gremlin Grumble Kangroo Karen Kedge Kelt Kent Kerry Kingfish Kipper Kitchen Kyle Sagger Sampson Sandbox Sark Sawfly Scarab Scorpion Scud Serb Shaddock Shipwreck Silex Siren Skiff Snapper Snipe Songster Spandrel Spider Spigot Spiral Stallion Starbright Starfish Stingray Sturgeon Styx Sunburn Swatter
-# names electronic radars
-Ball_End Bar_Lock Bass_Tilt Bee_Hind Big_Fred Big_Net Big_Screen Cake_Stand Cross_Bird Cross_Sword Dog_Ear Don_Kay Down_Beat Drum_Tilt Egg_Cup Eye_Bowl Fire_Dome Flap_Lid Flat_Face Fox_Fire Front_Dome Front_Door Front_Piece Gun_Dish Half_Cup Hawk_Screech Head_Lights Head_Net High_Fix High_Lark High_Sieve Hot_Shot Jay_Bird Kite_Screech Land_Roll Long_Track Muff_Cob Owl_Screech Palm_Frond Pat_Hand Peel_Cone Peel_Group Plank_Shave Plate_Steer Pop_Group Pork_Through Pot_Drum Pot_Head Puff_Ball Scan_Fix Scan_Odd Scoop_Pair Side_Net Skip_Spin Sky_Watch Slim_Net Small_Fred Small_Yawn Snoop_Pair Snoop_Plate Snoop_Slab Snoop_Tray Spin_Scan Spin_Trough Spoon_Rest Square_Tie Straight_Flush Strut_Curve Strut_Pair Sun_Visor Tall_Mike Thin_Skin Top_Dome Top_Knot Top_Pair Top_Plate Top_Sail Top_Steer Top_Trough Trap_Door Two_Spots
-# names electronic misc
-Band_Stand Bell_Bash Bell_Clout Bell_Shroud Bell_Squat Bell_Thumb Big_Ball Big_Bulge Brick_Group Brick_Pulp Brick_Spit Bull_Horn Bull_Nose Cage_Bare Cage_Cone Cage_Pot Cage_Stalk Code_Eye Elk_Tail Fish_Bowl Grid_Crane High_Pole Horse_Jaw Horse_Tail Light_Bulb Low_Ball Mare_Tail Moose_Jaw Park_Lamp Pert_Spring Plinth_Net Pop_Art Punch_Bowl Rum_Tub Salt_Pot Shark_Gill Shark_Teeth Side_Globe Site_Crane Sprat_Star Square_Head Squeeze_Box Squid_Ram Stop_Light Straight_Key Tee_Plinth Tin_Man Top_Hat Vee_Bars Vee_Cone Vee_Tube Watch_Dog
 

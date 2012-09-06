@@ -1,9 +1,20 @@
+-*- encoding: utf-8; indent-tabs-mode: nil -*-
+
 Revision history for Acme-MetaSyntactic-soviet
 
-0.02    2012-01-02, 45th anniversary of Operation Bolo
-        Fixed some typos duplicates and sort errors
-        Added a version prerequisite to Makefile.PL, to attempt to prevent "FAIL" reports by CPAN Testers
+0.03    2012-09-06, the Foxbat version
+        Third version, released on the 36th anniversary of Victor Belenko's flight from USSR to Japan.
+        - Compatibility with Acme::MetaSyntactic::MultiList version 1.
+        - Loading data from POD.
+        - Adding submarines, which may be redundant with A::MS::alphabet (nato category),
+        A::MS::phonetic (x-nato category) and A::MS::roman, but has a few more entries.
 
-0.01    2008-10-23
+0.02    2012-01-02, the Fishbed version
+        Second version, released on the 45th anniversary of Operation Bolo.
+        - Various typos and sorting errors fixed.
+        - Duplicate entries removed.
+        - POD encoding clearly specified, so the website will correctly print FDC's author name.
+
+0.01    2008-10-23, the Sandal version
         First version, released on the 46th anniversary of the blockade against Cuba
 

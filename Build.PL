@@ -12,7 +12,7 @@ my $builder = Module::Build->new(
 	'Module::Build' => 0.33,
     },
     build_requires => {
-	'Acme::MetaSyntactic::MultiList' => 0,
+	'Acme::MetaSyntactic::MultiList' => 1,
         'Test::More' => 0,
     },
     add_to_cleanup      => [ 'Acme-MetaSyntactic-soviet-*' ],

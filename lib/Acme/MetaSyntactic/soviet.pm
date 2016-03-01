@@ -948,10 +948,6 @@ Auxiliary / rescue submarine (SSA), FDC 797.
 
 =over 4
 
-=item Badger
-
-Tu-16 bomber, JWARH 37, 93, LFDC 368, FDC 774, AWA 392.
-
 =item Backfin
 
 Yak aircraft, number unknown, AWA 392.
@@ -959,6 +955,10 @@ Yak aircraft, number unknown, AWA 392.
 =item Backfire
 
 Tu-22M / Tu-26 variable geometry bomber, JWARH 37, 189, FDC 775, AWA 392.
+
+=item Badger
+
+Tu-16 bomber, JWARH 37, 93, LFDC 368, FDC 774, AWA 392.
 
 =item Bank
 
@@ -1191,10 +1191,6 @@ La-11 fighter, AWA 392.
 =item Fantail
 
 La-15 fighter, AWA 392.
-
-=item Fagot
-
-MiG-15 fighter, AWA 392.
 
 =item Fargo
 

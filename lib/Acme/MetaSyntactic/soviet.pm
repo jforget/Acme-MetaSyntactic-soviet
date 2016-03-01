@@ -1820,15 +1820,23 @@ L<http://cpanratings.perl.org/d/Acme-MetaSyntactic-soviet>
 
 L<http://search.cpan.org/dist/Acme-MetaSyntactic-soviet>
 
+=item * MetaCPAN
+
+L<https://metacpan.org/pod/Acme::MetaSyntactic::soviet>
+
+=item * GitHub
+
+L<https://github.com/jforget/Acme-MetaSyntactic-soviet>
+
 =back
 
 =head1 ACKNOWLEDGEMENTS
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2008, 2012, 2016 Jean Forget, all rights reserved.  This
-program is free software; you can redistribute it and/or modify it
-under the same terms as Perl itself: GNU Public License version 1 or
+Copyright  2008, 2012, 2016  Jean Forget,  all rights  reserved.  This
+program is  free software;  you can redistribute  it and/or  modify it
+under the same  terms as Perl itself: GNU Public  License version 1 or
 later and Perl Artistic License.
 
 The full text of the license can be found in the F<LICENSE> file included
@@ -1850,9 +1858,9 @@ General Public License for more details.
 
 You  should have received  a copy  of the  GNU General  Public License
 along with this program; if not, see <http://www.gnu.org/licenses/> or
-write to the Free Software Foundation, Inc., L<http://fsf.org>.
-This program is free software; you can redistribute it and you can modify it
-under the same terms as Perl itself.
+write to the Free  Software Foundation, Inc., L<http://fsf.org>.  This
+program is free  software; you can redistribute it  and you can modify
+it under the same terms as Perl itself.
 
 =cut
 

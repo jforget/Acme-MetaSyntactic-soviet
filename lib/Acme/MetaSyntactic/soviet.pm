@@ -1,24 +1,10 @@
 # -*- encoding: utf-8; indent-tabs-mode: nil -*-
 #
 #     Acme::MetaSyntactic::soviet -- NATO codenames for Soviet-designed equipment
-#
 #     Copyright (C) 2008, 2012, 2016 Jean Forget
+#
+#     See the license in the embedded documentation below.
 # 
-#     This program is free software; you can redistribute it and/or modify
-#     it under the same terms as Perl: either the Artistic License,
-#     or the GNU General Public License as published by
-#     the Free Software Foundation; either version 1, or (at your option)
-#     any later version.
-# 
-#     This program is distributed in the hope that it will be useful,
-#     but WITHOUT ANY WARRANTY; without even the implied warranty of
-#     MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-#     GNU General Public License for more details.
-# 
-#     You should have received a copy of the GNU General Public License and
-#     the Artistic License along with this program; if not, write to the Free
-#     Software Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA
-#     02111-1307, USA for the GNU General Public License.
 package Acme::MetaSyntactic::soviet;
 
 use warnings;
@@ -1819,8 +1805,31 @@ L<http://search.cpan.org/dist/Acme-MetaSyntactic-soviet>
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2008, 2012, 2016 Jean Forget, all rights reserved.
+Copyright 2008, 2012, 2016 Jean Forget, all rights reserved.  This
+program is free software; you can redistribute it and/or modify it
+under the same terms as Perl itself: GNU Public License version 1 or
+later and Perl Artistic License.
 
+The full text of the license can be found in the F<LICENSE> file included
+with this module or at
+L<http://www.perlfoundation.org/artistic_license_1_0> and
+L<http://www.gnu.org/licenses/gpl-1.0.html>.
+
+Here is the summary of GPL:
+
+This program is  free software; you can redistribute  it and/or modify
+it under the  terms of the GNU General Public  License as published by
+the Free  Software Foundation; either  version 1, or (at  your option)
+any later version.
+
+This program  is distributed in the  hope that it will  be useful, but
+WITHOUT   ANY  WARRANTY;   without  even   the  implied   warranty  of
+MERCHANTABILITY  or FITNESS  FOR A  PARTICULAR PURPOSE.   See  the GNU
+General Public License for more details.
+
+You  should have received  a copy  of the  GNU General  Public License
+along with this program; if not, see <http://www.gnu.org/licenses/> or
+write to the Free Software Foundation, Inc., L<http://fsf.org>.
 This program is free software; you can redistribute it and you can modify it
 under the same terms as Perl itself.
 

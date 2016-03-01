@@ -177,6 +177,12 @@ and published by GDW in 1988
 (ISBN 0-943580-97-8)
 abbreviated as I<DF>.
 
+I<Les Flottes de Combat 1968>
+written by H. Le Masson
+published by Editions Maritimes et Outre-Mer
+(no ISBN)
+abbreviated as I<LFDC>.
+
 I<Flottes de Combat 1990>
 written by B. Prézelin
 published by Editions Maritimes et Outre-Mer
@@ -944,7 +950,7 @@ Auxiliary / rescue submarine (SSA), FDC 797.
 
 =item Badger
 
-Tu-16 bomber, JWARH 37, 93, FDC 774, AWA 392.
+Tu-16 bomber, JWARH 37, 93, LFDC 368, FDC 774, AWA 392.
 
 =item Backfin
 
@@ -968,11 +974,11 @@ Tu-2, AWA 392.
 
 =item Beagle
 
-Il-28 bomber, JWARH 37, 216, AWA 392.
+Il-28 bomber, JWARH 37, 216, LFDC 368, AWA 392.
 
 =item Bear
 
-Tu-95 bomber or Tu-142 bomber (Bear F and H), JWARH 37, 121, FDC 774, AWA 392.
+Tu-95 bomber or Tu-142 bomber (Bear F and H), JWARH 37, 121, LFDC 368, FDC 774, AWA 392.
 
 =item Beast
 
@@ -988,7 +994,7 @@ Tu supersonic bomber, JWARH 37, AWA 392.
 
 =item Blinder
 
-Tu-22 bomber, JWARH 37, 132, FDC 774, AWA 392.
+Tu-22 bomber, JWARH 37, 132, LFDC 368, FDC 774, AWA 392.
 
 =item Blowlamp
 
@@ -1008,7 +1014,7 @@ Tu-14, AWA 392.
 
 =item Bounder
 
-M-? (number unknown), AWA 392.
+M-? (number unknown), AWA 392 or Tu-?, LFDC 368.
 
 =item Box
 
@@ -1290,7 +1296,7 @@ MiG-29 fighter, PL 208, JWARH 38, 87, ASu, AWA 392.
 
 =item Madge
 
-Be-6 flying boat, JWARH 38, AWA 392.
+Be-6 flying boat, JWARH 38, LFDC 368, AWA 392.
 
 =item Maestro
 
@@ -1424,6 +1430,10 @@ Mi-1 / Mi-3 light helicopter, JWARH 38, 509, AWA 392.
 
 Mi-10 heavy transport helicopter, PL 202, JWARH 38, 539, AWA 392.
 
+=item Harp
+
+Ka-20 ASW helicopter, LFDC 368.
+
 =item Havoc
 
 Mi-28 attack helicopter, PL 198, JWARH 38, AWA 392.
@@ -1478,11 +1488,11 @@ Ka-25 naval helicopter, JWARH 38, 541, FDC 775, AWA 392.
 
 =item Horse
 
-Yak-24, AWA 392.
+Yak-24, LFDC 368, AWA 392.
 
 =item Hound
 
-Mi-4  medium transport and support helicopter, PL 204, JWARH 38, 515, AWA 392.
+Mi-4  medium transport and support helicopter, PL 204, JWARH 38, 515, LFDC 368, AWA 392.
 
 =back
 
@@ -1567,7 +1577,7 @@ SA-12 ground-to-air missile, PL 114.
 
 =item Goa
 
-SA-N-1 anti-aircraft missile, FDC 755.
+SA-N-1 anti-aircraft missile, LFDC 367, FDC 755.
 
 =item Goblet
 
@@ -1589,9 +1599,14 @@ SA-14 / SA-N-8 anti-aircraft missile, FDC 755.
 
 SA-10 / SA-N-6 anti-aircraft missile, PL 115, FDC 755.
 
+=item Guideline
+
+SNA-1 anti-aircraft missile, LFDC 367.
+
 =item Kangroo
 
 AS-3 air-to-ground missile (surely a typo for kangaroo), JWARH 25.
+Note: LFDC 367 gives the name with a French spelling: "Kangourou".
 
 =item Karen
 
@@ -1604,6 +1619,10 @@ AS-14 air-to-ground missile, PL 211, 226.
 =item Kelt
 
 AS-5 air-to-ground missile, JWARH 25, FDC 756.
+
+=item Kennel
+
+AS-1 air-to-surface missile, LFDC 367.
 
 =item Kent
 
@@ -1619,11 +1638,11 @@ AS-6 air-to-ground missile, FDC 756, named Kingfisher by JWARH 25.
 
 =item Kipper
 
-AS-2 air-to-ground missile, JWARH 25, FDC 756.
+AS-2 air-to-ground missile, JWARH 25, LFDC 367, FDC 756.
 
 =item Kitchen
 
-AS-4 air-to-ground missile, FDC 756.
+AS-4 air-to-ground missile, LFDC 367, FDC 756.
 
 =item Kyle
 
@@ -1735,7 +1754,7 @@ SS-N-20 ballistic missile, FDC 754.
 
 =item Styx
 
-SS-N-2 anti-ship missile, FDC 754.
+SS-N-2 anti-ship missile, LFDC 367, FDC 754.
 
 =item Sunburn
 

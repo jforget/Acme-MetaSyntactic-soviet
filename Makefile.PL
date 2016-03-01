@@ -37,7 +37,7 @@ WriteMakefile
     'PREREQ_PM' => {
                      'Test::More' => 0,
                      'Acme::MetaSyntactic::MultiList' => 1
-                   }
+                   },
     # The oldest Perl to check A::MS::s 0.03 is 5.6.2. Therefore, I guess A::MS::s 0.04 and next will work in 5.6.2 too.
     MIN_PERL_VERSION => '5.6.2',
     META_MERGE       => {
@@ -46,12 +46,14 @@ WriteMakefile
          runtime => {
            requires => {
              'Acme::MetaSyntactic::MultiList' => 1
+           },
          },
          test => {
            requires => {
              'Test::More'          => '0',
            },
          },
+       },
        provides       => {
            'Acme::MetaSyntactic::soviet' => {
                 file => 'lib/Acme/MetaSyntactic/soviet.pm',

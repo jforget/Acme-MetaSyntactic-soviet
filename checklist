@@ -1,0 +1,82 @@
+-*- encoding: utf-8; indent-tabs-mode: nil -*-
+
+See Merijn's checklist:
+https://github.com/Tux/Release-Checklist/blob/master/Checklist.md
+
+Check GPL-mandated comments (including electronic address of FSF) in:
+-- Build.PL
+-- Makefile.PL
+-- lib/Acme/MetaSyntactic/soviet.pm top-file comments
+-- lib/Acme/MetaSyntactic/soviet.pm POD "COPYRIGHT" paragraph
+-- t/*.t
+
+Check version number in:
+-- Changes
+-- README
+-- Build.PL (no: 'version_from')
+-- Makefile.PL
+-- (2x) lib/Acme/MetaSyntactic/soviet.pm, code ($VERSION) and POD (=head1 VERSION)
+
+Check copyright years in:
+-- README
+-- Build.PL
+-- lib/Acme/MetaSyntactic/soviet.pm top-file comments
+-- lib/Acme/MetaSyntactic/soviet.pm POD "COPYRIGHT" paragraph
+-- t/*.t
+
+MANIFEST: among others, check that all new test files are mentionned
+
+Checks by file
+--------------
+
+lib/Acme/MetaSyntactic/soviet.pm top of the file
+-- version number
+-- copyright years
+
+lib/Acme/MetaSyntactic/soviet.pm POD "VERSION" paragraph
+-- version number
+
+lib/Acme/MetaSyntactic/soviet.pm POD "COPYRIGHT" paragraph
+-- copyright years
+
+Makefile.PL
+-- version number in "provides"
+-- copyright years
+
+t/*.t
+-- copyright years
+
+MANIFEST
+-- among others, check that all new test files are mentionned
+
+Changes
+-- version number
+-- release date
+
+Kwalitee
+
+Coverage: preferably with perlbrew perl-lgdbl (or later?)
+
+Changes: Type the proper release date for the latest version
+
+Build META.{json,yml} and .tar.gz with perlbrew perl-lgdbl (or other? perl-5.20.2?)
+
+Check contents of META.{json,yml}:
+  version number (2x)
+  minimum perl version
+  dynamic config 0
+  provides (with version number)
+
+After release
+=============
+
+Github:
+    git tag -m 'Release to CPAN' v0.04
+    git push --tags -u origin master
+
+Change version number in:
+-- Changes
+-- Makefile.PL
+-- lib/Acme/MetaSyntactic/soviet.pm
+
+

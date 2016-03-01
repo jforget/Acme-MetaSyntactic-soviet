@@ -2,7 +2,7 @@
 #
 #     Acme::MetaSyntactic::soviet -- NATO codenames for Soviet-designed equipment
 #
-#     Copyright (C) 2008, 2012 Jean Forget
+#     Copyright (C) 2008, 2012, 2016 Jean Forget
 # 
 #     This program is free software; you can redistribute it and/or modify
 #     it under the same terms as Perl: either the Artistic License,
@@ -26,7 +26,7 @@ use strict;
 
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '0.03';
+our $VERSION = '0.04';
 
 my $data = { default => 'electronic' };
 my ($category2, $category3);
@@ -123,8 +123,8 @@ The default category is 'electronic'.
 
 =head1 VERSION
 
-This  is version  0.03, the  "Foxbat"  version, released  on the  36th
-anniversary of Belenko's flight (flying or fleeing?) to Japan.
+This  is version  0.04, the  "???"  version, released  on the  ??th
+anniversary of ???
 
 =head1 SYNOPSIS
 
@@ -1819,7 +1819,7 @@ L<http://search.cpan.org/dist/Acme-MetaSyntactic-soviet>
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2008, 2012 Jean Forget, all rights reserved.
+Copyright 2008, 2012, 2016 Jean Forget, all rights reserved.
 
 This program is free software; you can redistribute it and you can modify it
 under the same terms as Perl itself.

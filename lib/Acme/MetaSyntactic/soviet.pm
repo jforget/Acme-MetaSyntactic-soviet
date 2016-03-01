@@ -66,8 +66,8 @@ Acme::MetaSyntactic::soviet -- NATO codenames for Soviet-designed equipment
 =head1 DESCRIPTION
 
 Some codenames  given by  NATO to Soviet-designed  aircraft, missiles,
-radars  and  other  electronic  systems. The  various  categories  and
-sub-categories are
+submarines,   radars  and  other   electronic  systems.   The  various
+categories and sub-categories are
 
 =over 4
 
@@ -101,6 +101,10 @@ vehicles/missiles
 
 =item *
 
+vehicles/submarines
+
+=item *
+
 vehicles/error
 
 =back
@@ -126,14 +130,16 @@ read:
 
     my $meta = Acme::MetaSyntactic->new( 'soviet', category => 'vehicle/aircraft' );
 
+If C<meta>  from L<Acme::MetaSyntactic> is  installed, you can  use it
+from the command line:
+
+    meta soviet
+
+    meta soviet/vehicles/submarines
 
 =head1 CONTRIBUTOR
 
 Jean Forget
-
-Not  yet  introduced in  Acme::MetaSyntactic,  but  version 0.01,  the
-"Sandal" version, was published  separately on 23rd October 2008, 46th
-anniversary of the blockade of Cuba.
 
 =head1 SOURCES
 
@@ -749,8 +755,8 @@ Electronic warfare, FDC 760.
 
 =head2 VEHICLES
 
-This category  lists flying  vehicles. These vehicles  are submarines,
-planes, helicopter or missiles.
+This  category lists  flying and  naval vehicles.  These  vehicles are
+submarines, planes, helicopter or missiles.
 
 =head3 SUBMARINES
 

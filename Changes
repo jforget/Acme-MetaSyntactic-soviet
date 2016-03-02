@@ -3,6 +3,8 @@
 Revision history for Acme-MetaSyntactic-soviet
 
 0.04    2016-???
+        - fix some issues (duplicate entries)
+        - add data from "Les Flottes de Combat 1968"
 
 0.03    2012-09-06, the Foxbat version
         Third version, released on the 36th anniversary of Victor Belenko's flight from USSR to Japan.

@@ -60,6 +60,7 @@ Coverage: preferably with perlbrew perl-lgdbl (or later?)
 Changes: Type the proper release date for the latest version
 
 Build META.{json,yml} and .tar.gz with perlbrew perl-lgdbl (or other? perl-5.20.2?)
+and make. Use "make dist" rather than "./Build dist", because Build.PL is not complete.
 
 Check contents of META.{json,yml}:
   version number (2x)

@@ -148,6 +148,12 @@ Soviet Union. Therefore, the  module name is C<A::MS::soviet>, with no
 "ex-"  prefix.  For  each entry,  the  sources are  listed, with  page
 numbers for the books. The games use data cards, which are unnumbered.
 
+Some sources, especially early  sources, may contain some errors. Some
+equipment  may appear with  faulty intelligence  reports which  give a
+wrong  code or  description.  And  a later  intelligence  report would
+correct it.  The best  example is the  Backfire, first given  the code
+"Tu-26" and then the code "Tu-22M".
+
 =head2 Main Sources
 
 These sources  contain extensive lists  or extensive tables  of soviet
@@ -281,7 +287,7 @@ Navigation radar, FDC 758.
 
 =item Bar Lock
 
-Warning radar, PL 124.
+Warning radar, PL 124, mentioned in RT.
 
 =item Bass Tilt
 
@@ -343,6 +349,10 @@ Gun control radar, FDC 759.
 
 Target tracking radar, FDC 759.
 
+=item Fan Song
+
+Guidance radar for SA-2 missiles, mentioned in RT.
+
 =item Fire Dome
 
 Gadfly fire control radar, PL 114.
@@ -373,7 +383,7 @@ Submarine mounted radar, FDC 759.
 
 =item Gun Dish
 
-ZSU-23-4 fire control radar, PL 105.
+ZSU-23-4 fire control radar, PL 105, mentioned in RT.
 
 =item Half Cup
 
@@ -837,7 +847,7 @@ Nuclear-powered attack submarine (SSN), FDC 790.
 
 =item Alfa
 
-Nuclear-powered attack submarine (SSN), FDC 789.
+Nuclear-powered attack submarine (SSN), FDC 789. A prominent character of THFRO.
 
 =item Beluga
 
@@ -849,15 +859,15 @@ Auxiliary / rescue submarine (SST), FDC 798.
 
 =item Charlie I
 
-Nuclear-powered aerodynamic missile submarine (SSGN), FDC 785.
+Nuclear-powered aerodynamic missile submarine (SSGN), FDC 785. Mentioned in THFRO.
 
 =item Charlie II
 
-Nuclear-powered aerodynamic missile submarine (SSGN), FDC 785.
+Nuclear-powered aerodynamic missile submarine (SSGN), FDC 785. Mentioned in THFRO.
 
 =item Delta I
 
-Nuclear-powered ballistic missile submarine (SSBN), FDC 781.
+Nuclear-powered ballistic missile submarine (SSBN), FDC 781. Mentioned (without number) in THFRO.
 
 =item Delta II
 
@@ -873,7 +883,7 @@ Nuclear-powered ballistic missile submarine (SSBN), FDC 780.
 
 =item Echo
 
-Nuclear-powered attack submarine (SSN), FDC 793.
+Nuclear-powered attack submarine (SSN), FDC 793. Mentioned in THFRO.
 
 =item Echo II
 
@@ -890,7 +900,7 @@ Attack submarine (SS), FDC 795.
 
 =item Golf II
 
-Ballistic missile submarine (SSB), FDC 783.
+Ballistic missile submarine (SSB), FDC 783. Mentioned (without number) in THFRO.
 
 =item Golf II Mod
 
@@ -930,11 +940,11 @@ Tracked rescue submarine, FDC 798.
 
 =item November
 
-Nuclear-powered attack submarine (SSN), FDC 793.
+Nuclear-powered attack submarine (SSN), FDC 793. Mentioned in THFRO.
 
 =item Oscar I
 
-Nuclear-powered aerodynamic missile submarine (SSGN), FDC 784.
+Nuclear-powered aerodynamic missile submarine (SSGN), FDC 784. Mentioned (without number) in THFRO.
 
 =item Oscar II
 
@@ -954,11 +964,11 @@ Nuclear-powered attack submarine (SSN), FDC 790.
 
 =item Tango
 
-Attack submarine (SS), FDC 795.
+Attack submarine (SS), FDC 795. Mentioned in THFRO.
 
 =item Typhoon
 
-Nuclear-powered ballistic missile submarine (SSBN), FDC 779.
+Nuclear-powered ballistic missile submarine (SSBN), FDC 779. A prominent character of THFRO.
 
 =item Uniform
 
@@ -966,11 +976,11 @@ Nuclear-powered auxiliary / rescue submarine (SSAN), FDC 797.
 
 =item Victor I
 
-Nuclear-powered attack submarine (SSN), FDC 793.
+Nuclear-powered attack submarine (SSN), FDC 793. Mentioned in THFRO.
 
 =item Victor II
 
-Nuclear-powered attack submarine (SSN), FDC 792.
+Nuclear-powered attack submarine (SSN), FDC 792. Mentioned in THFRO.
 
 =item Victor III
 
@@ -988,6 +998,7 @@ Nuclear-powered auxiliary / rescue submarine (SSAN), FDC 798.
 
 Nuclear-powered ballistic missile submarine (SSBN), FDC 782
 or nuclear-powered attack submarine (SSN), FDC 794.
+Mentioned (without number) in THFRO.
 
 =item Yankee II
 
@@ -1319,7 +1330,7 @@ Yak-23 fighter, AWA 392.
 
 =item Forger
 
-Yak-38 VSTOL fighter, PL 214, JWARH 38, 64, FDC 775, AWA 392.
+Yak-38 VSTOL fighter, PL 214, JWARH 38, 64, FDC 775, AWA 392. Mentioned in THFRO.
 
 =item Foxbat
 
@@ -1604,7 +1615,7 @@ AA-5 air-to-air missile, PL 223, JWARH 29, DF.
 
 =item Atoll
 
-AA-2 air-to-air missile, PL 210, 213, 222, JWARH 30, DF.
+AA-2 air-to-air missile, PL 210, 213, 222, JWARH 30, DF. Mentioned in RT, F2 and THFRO.
 
 =item Frog
 
@@ -1648,7 +1659,7 @@ SA-13 ground-to-air missile, PL 113.
 
 =item Grail
 
-SA-7 / SA-N-5 anti-aircraft missile, FDC 755.
+SA-7 / SA-N-5 anti-aircraft missile, FDC 755. RT gives a Russian name, I<Strela>.
 
 =item Gremlin
 
@@ -1809,7 +1820,7 @@ SS-N-18 ballistic missile, FDC 754.
 
 =item Sturgeon
 
-SS-N-20 ballistic missile, FDC 754.
+SS-N-20 ballistic missile, FDC 754. THFRO gives it the name "Seahawk".
 
 =item Styx
 

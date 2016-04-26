@@ -148,10 +148,21 @@ Soviet Union. Therefore, the  module name is C<A::MS::soviet>, with no
 "ex-"  prefix.  For  each entry,  the  sources are  listed, with  page
 numbers for the books. The games use data cards, which are unnumbered.
 
+=head2 Main Sources
+
+These sources  contain extensive lists  or extensive tables  of soviet
+equipment.
+
+=over 4
+
+=item *
+
 I<Pat-Led-1>
 written by J-J Patry and P. Lederer
 published by Editions Presse & Recherche
 abbreviated as I<PL>.
+
+=item *
 
 I<Jane's World Aircraft Recognition Handbook>
 written by Derek Wood
@@ -159,11 +170,15 @@ published by Janes in 1987
 (ISBN 0-7106-0343-6)
 abbreviated as I<JWARH>.
 
+=item *
+
 I<Air Superiority>
 designed by J.D. Webster
 and published by GDW in 1987
 (ISBN 0-943580-19-6)
 abbreviated as I<ASu>.
+
+=item *
 
 I<Air Strike>
 designed by J.D. Webster
@@ -171,11 +186,15 @@ and published by GDW in 1987
 (ISBN 0-943580-30-7)
 abbreviated as I<ASt>.
 
+=item *
+
 I<Desert Falcons>
 designed by J.D. Webster
 and published by GDW in 1988
 (ISBN 0-943580-97-8)
 abbreviated as I<DF>.
+
+=item *
 
 I<Les Flottes de Combat 1968>
 written by H. Le Masson
@@ -183,17 +202,61 @@ published by Editions Maritimes et Outre-Mer
 (no ISBN)
 abbreviated as I<LFDC>.
 
+=item *
+
 I<Flottes de Combat 1990>
 written by B. Prézelin
 published by Editions Maritimes et Outre-Mer
 (ISBN 2.7373.0485.7)
 abbreviated as I<FDC>.
 
+Note: these  last two  books are actually  the same book,  updated and
+published every  other year.  You can notice  that the title  has been
+shortened between the 1968 issue and the 1990 issue (FDC vs. LFDC).
+
+=item *
+
 I<Air Wars and Aircraft>
 written by Victor Flintham
 published by Arms and Armour in 1989
 (ISBN 0-85368-779-X)
 abreviated as I<AWA>.
+
+=back
+
+=head2 Minor Sources
+
+These  sources  mention some  NATO  codes  for  soviet equipment,  but
+without trying to give an exhaustive list of some category or other.
+
+=over 4
+
+=item *
+
+I<Rolling Thunder>
+designed by Steve Weiss
+published by Group Three Games in 1985
+(no ISBN)
+abreviated as I<RT>.
+
+=item *
+
+I<Fox Two>
+by Randy Cunningham with Jeff Ethell
+published by Warner Books in 1984
+ISBN 0-446-35458-9
+abreviated as I<F2>.
+
+=item *
+
+I<The Hunt for Red October>
+by Tom Clancy,
+first published by Naval Institute Press in 1984
+published by Fontana in 1987
+ISBN 0-00-617276-8
+abreviated at I<THFRO>.
+
+=back
 
 =head1 SOVIET EQUIPMENT
 

@@ -228,6 +228,14 @@ published by Arms and Armour in 1989
 (ISBN 0-85368-779-X)
 abreviated as I<AWA>.
 
+=item *
+
+I<Air War>
+designed by David Isby
+published in 1977 by SPI and then in 1983 by TSR
+(no ISBN)
+abreviated as I<SPIAW>.
+
 =back
 
 =head2 Minor Sources
@@ -1028,7 +1036,7 @@ Yak aircraft, number unknown, AWA 392.
 
 =item Backfire
 
-Tu-22M / Tu-26 variable geometry bomber, JWARH 37, 189, FDC 775, AWA 392.
+Tu-22M / Tu-26 variable geometry bomber, JWARH 37, 189, FDC 775, AWA 392, SPIAW.
 
 =item Badger
 
@@ -1256,7 +1264,7 @@ An-26 transport aircraft, PL 220, JWARH 38, 286, AWA 392.
 
 =item Fagot
 
-MiG-15bis, JWARH 38, DF, AWA 392.
+MiG-15bis, JWARH 38, DF, AWA 392, SPIAW.
 
 =item Fang
 
@@ -1272,7 +1280,7 @@ MiG-9 fighter, AWA 392.
 
 =item Farmer
 
-MiG-19 fighter, PL 213, JWARH 38, 56, DF, AWA 392.
+MiG-19 fighter, PL 213, JWARH 38, 56, DF, AWA 392, SPIAW.
 
 =item Feather
 
@@ -1280,7 +1288,7 @@ Yak-17 fighter, AWA 392.
 
 =item Fencer
 
-Su-24 variable geometry strike fighter, PL 211, JWARH 38, 187, ASt, AWA 392.
+Su-24 variable geometry strike fighter, PL 211, JWARH 38, 187, ASt, AWA 392. Or Su-19 according to SPIAW.
 
 =item Fiddler
 
@@ -1296,7 +1304,7 @@ Yak-28 fighter, PL 222, JWARH 38, 98, AWA 392.
 
 =item Fishbed
 
-MiG-21 fighter, PL 211, JWARH 38, 177, ASu, DF, AWA 392.
+MiG-21 fighter, PL 211, JWARH 38, 177, ASu, DF, AWA 392, SPIAW.
 
 =item Fishpot
 
@@ -1305,11 +1313,11 @@ Su-9/Su-11 fighter, PL 222, JWARH 38, 176, AWA 392.
 =item Fitter
 
 Su-7 fighter (Fitter A) or Su-17/20/22 variable geometry fighter (Fitter C and D) or
-Su-17 fighter (Fitter K), PL 212, JWARH 38, 57, 186, ASu, FDC 775, AWA 392.
+Su-17 fighter (Fitter K), PL 212, JWARH 38, 57, 186, ASu, FDC 775, AWA 392, SPIAW.
 
 =item Flagon
 
-Su-21 fighter aircraft, PL 222. Or Su-15 fighter, JWARH 38, 175, ASu, DF, AWA 392.
+Su-21 fighter aircraft, PL 222. Or Su-15 fighter, JWARH 38, 175, ASu, DF, AWA 392, SPIAW.
 
 =item Flanker
 
@@ -1322,7 +1330,7 @@ Yak-25 and Yak-27 fighters, AWA 392.
 =item Flogger
 
 MiG-23 variable geometry fighter (Flogger A and G) or MiG-27 variable geometry
-fighter (Flogger D and J), PL 210, JWARH 38, 184, 185, ASu, ASt, DF, AWA 392.
+fighter (Flogger D and J), PL 210, JWARH 38, 184, 185, ASu, ASt, DF, AWA 392, SPIAW.
 
 =item Flora
 
@@ -1334,7 +1342,7 @@ Yak-38 VSTOL fighter, PL 214, JWARH 38, 64, FDC 775, AWA 392. Mentioned in THFRO
 
 =item Foxbat
 
-MiG-25 interceptor, PL 223, 224, JWARH 38, 85, DF, AWA 392.
+MiG-25 interceptor, PL 223, 224, JWARH 38, 85, DF, AWA 392, SPIAW.
 
 =item Foxhound
 
@@ -1350,7 +1358,7 @@ Lend-lease P-63 fighter, AWA 392.
 
 =item Fresco
 
-MiG-17 fighter, PL 213, JWARH 38, 55, DF, AWA 392.
+MiG-17 fighter, PL 213, JWARH 38, 55, DF, AWA 392, SPIAW.
 
 =item Fritz
 
@@ -1579,7 +1587,7 @@ the same.
 
 =item Acrid
 
-AA-6 air-to-air missile, PL 223, JWARH 30, DF.
+AA-6 air-to-air missile, PL 223, JWARH 30, DF, SPIAW.
 
 =item Alamo
 
@@ -1587,7 +1595,7 @@ AA-10 air-to-air missile, PL 225, ASu, DF.
 
 =item Alkali
 
-AA-1 air-to-air missile, PL 213.
+AA-1 air-to-air missile, PL 213, SPIAW.
 
 =item Amos
 
@@ -1595,15 +1603,15 @@ AA-9 air-to-air missile, PL 224, ASu.
 
 =item Anab
 
-AA-3 air-to-air missile, PL 222, JWARH 29, ASu.
+AA-3 air-to-air missile, PL 222, JWARH 29, ASu, SPIAW.
 
 =item Apex
 
-AA-7 air-to-air missile, PL 208, 210, 211, 224, JWARH 29, ASu.
+AA-7 air-to-air missile, PL 208, 210, 211, 224, JWARH 29, ASu, SPIAW.
 
 =item Aphid
 
-AA-8 air-to-air missile, PL 208, 210, 211, 214, 224, JWARH 29, ASu.
+AA-8 air-to-air missile, PL 208, 210, 211, 214, 224, JWARH 29, ASu, SPIAW.
 
 =item Archer
 
@@ -1615,7 +1623,7 @@ AA-5 air-to-air missile, PL 223, JWARH 29, DF.
 
 =item Atoll
 
-AA-2 air-to-air missile, PL 210, 213, 222, JWARH 30, DF. Mentioned in RT, F2 and THFRO.
+AA-2 air-to-air missile, PL 210, 213, 222, JWARH 30, DF, SPIAW. Mentioned in RT, F2 and THFRO.
 
 =item Frog
 
@@ -1627,7 +1635,7 @@ SA-11 / SA-N-7 anti-aircraft missile, PL 114, FDC 755.
 
 =item Gainful
 
-SA-6 ground-to-air missile, PL 118.
+SA-6 ground-to-air missile, PL 118, SPIAW.
 
 =item Ganef
 
@@ -1647,7 +1655,7 @@ SA-12 ground-to-air missile, PL 114.
 
 =item Goa
 
-SA-N-1 anti-aircraft missile, LFDC 367, FDC 755.
+SA-N-1 anti-aircraft missile, LFDC 367, FDC 755, SPIAW.
 
 =item Goblet
 
@@ -1659,7 +1667,7 @@ SA-13 ground-to-air missile, PL 113.
 
 =item Grail
 
-SA-7 / SA-N-5 anti-aircraft missile, FDC 755. RT gives a Russian name, I<Strela>.
+SA-7 / SA-N-5 anti-aircraft missile, FDC 755, SPIAW. RT gives a Russian name, I<Strela>.
 
 =item Gremlin
 
@@ -1671,7 +1679,7 @@ SA-10 / SA-N-6 anti-aircraft missile, PL 115, FDC 755.
 
 =item Guideline
 
-SNA-1 anti-aircraft missile, LFDC 367.
+SA-2 / SNA-1 anti-aircraft missile, LFDC 367, SPIAW.
 
 =item Kangroo
 

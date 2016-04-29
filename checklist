@@ -35,6 +35,8 @@ lib/Acme/MetaSyntactic/soviet.pm top of the file
 
 lib/Acme/MetaSyntactic/soviet.pm POD "VERSION" paragraph
 -- version number
+-- version name
+-- event related to the release date
 
 lib/Acme/MetaSyntactic/soviet.pm POD "COPYRIGHT" paragraph
 -- copyright years

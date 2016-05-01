@@ -61,7 +61,7 @@ WriteMakefile
        provides       => {
            'Acme::MetaSyntactic::soviet' => {
                 file => 'lib/Acme/MetaSyntactic/soviet.pm',
-                version => '0.04',
+                version => '0.05',
            },
        },
        'meta-spec' => { version => 2 },

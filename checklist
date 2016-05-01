@@ -75,7 +75,7 @@ After release
 =============
 
 Github:
-    git tag -m 'Release to CPAN' v0.04
+    git tag -m 'Release to CPAN' v0.05
     git push --tags -u origin master
 
 Change version number in:

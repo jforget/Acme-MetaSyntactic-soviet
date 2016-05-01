@@ -48,7 +48,8 @@ WriteMakefile
        prereqs => {
          runtime => {
            requires => {
-             'Acme::MetaSyntactic::MultiList' => 1
+             'Acme::MetaSyntactic::MultiList' => 1,
+             'perl'                           => '5.6.2',
            },
          },
          test => {

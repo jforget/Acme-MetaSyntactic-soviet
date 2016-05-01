@@ -113,8 +113,8 @@ The default category is 'electronic'.
 
 =head1 VERSION
 
-This  is version  0.04, the  "???"  version, released  on the  ??th
-anniversary of ???
+This  is version  0.04, the  "Guideline"  version, released  on the  56th
+anniversary of the downing of Gary Power's U-2 by a SA-2 Guideline.
 
 =head1 SYNOPSIS
 

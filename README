@@ -12,12 +12,8 @@ To install this module, run the following commands:
 	make test
 	make install
 
-Alternatively, to install with Module::Build, you can use the following commands:
-
-	perl Build.PL
-	./Build
-	./Build test
-	./Build install
+There is also a Build.PL file, but since Module::Build is no longer recommended,
+this installation procedure has not been tested for this version.
 
 SUPPORT AND DOCUMENTATION
 

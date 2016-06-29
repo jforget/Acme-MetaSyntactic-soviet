@@ -57,6 +57,7 @@ Changes
 -- event related to the release date
 
 Kwalitee
+--------
 
 Coverage: preferably with perlbrew perl-lgdbl (or later?)
 
@@ -70,6 +71,7 @@ Check contents of META.{json,yml}:
   minimum perl version
   dynamic config 0
   provides (with version number)
+  prerequisite: strict and warnings
 
 After release
 =============

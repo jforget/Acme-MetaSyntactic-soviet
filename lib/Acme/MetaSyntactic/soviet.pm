@@ -226,7 +226,7 @@ I<Air Wars and Aircraft>
 written by Victor Flintham
 published by Arms and Armour in 1989
 (ISBN 0-85368-779-X)
-abreviated as I<AWA>.
+abbreviated as I<AWA>.
 
 =item *
 
@@ -234,7 +234,15 @@ I<Air War>
 designed by David Isby
 published in 1977 by SPI and then in 1983 by TSR
 (no ISBN)
-abreviated as I<SPIAW>.
+abbreviated as I<SPIAW>.
+
+=item *
+
+I<How to Make War>
+written by James F. Dunigan
+published by Quill in 1988
+(ISBN 0-668-07979-2)
+abbreviated as I<HTMW>.
 
 =back
 
@@ -251,7 +259,7 @@ I<Rolling Thunder>
 designed by Steve Weiss
 published by Group Three Games in 1985
 (no ISBN)
-abreviated as I<RT>.
+abbreviated as I<RT>.
 
 =item *
 
@@ -259,7 +267,7 @@ I<Fox Two>
 by Randy Cunningham with Jeff Ethell
 published by Warner Books in 1984
 ISBN 0-446-35458-9
-abreviated as I<F2>.
+abbreviated as I<F2>.
 
 =item *
 
@@ -268,7 +276,7 @@ by Tom Clancy,
 first published by Naval Institute Press in 1984
 published by Fontana in 1987
 ISBN 0-00-617276-8
-abreviated at I<THFRO>.
+abbreviated at I<THFRO>.
 
 =back
 
@@ -851,11 +859,11 @@ submarines, planes, helicopter or missiles.
 
 =item Akula
 
-Nuclear-powered attack submarine (SSN), FDC 790.
+Nuclear-powered attack submarine (SSN), FDC 790, HTMW 224+253.
 
 =item Alfa
 
-Nuclear-powered attack submarine (SSN), FDC 789. A prominent character of THFRO.
+Nuclear-powered attack submarine (SSN), FDC 789, HTMW 253. Spelled "Alpha" in HTMW 284. A prominent character of THFRO.
 
 =item Beluga
 
@@ -867,31 +875,31 @@ Auxiliary / rescue submarine (SST), FDC 798.
 
 =item Charlie I
 
-Nuclear-powered aerodynamic missile submarine (SSGN), FDC 785. Mentioned in THFRO.
+Nuclear-powered aerodynamic missile submarine (SSGN), FDC 785, HTMW 224. Mentioned in THFRO.
 
 =item Charlie II
 
-Nuclear-powered aerodynamic missile submarine (SSGN), FDC 785. Mentioned in THFRO.
+Nuclear-powered aerodynamic missile submarine (SSGN), FDC 785, HTMW 224+253. Mentioned in THFRO.
 
 =item Delta I
 
-Nuclear-powered ballistic missile submarine (SSBN), FDC 781. Mentioned (without number) in THFRO.
+Nuclear-powered ballistic missile submarine (SSBN), FDC 781, HTMW 224. Mentioned (without number) in THFRO.
 
 =item Delta II
 
-Nuclear-powered ballistic missile submarine (SSBN), FDC 781.
+Nuclear-powered ballistic missile submarine (SSBN), FDC 781, HTMW 224.
 
 =item Delta III
 
-Nuclear-powered ballistic missile submarine (SSBN), FDC 780.
+Nuclear-powered ballistic missile submarine (SSBN), FDC 780, HTMW 224.
 
 =item Delta IV
 
-Nuclear-powered ballistic missile submarine (SSBN), FDC 780.
+Nuclear-powered ballistic missile submarine (SSBN), FDC 780, HTMW 224.
 
 =item Echo
 
-Nuclear-powered attack submarine (SSN), FDC 793. Mentioned in THFRO.
+Nuclear-powered attack submarine (SSN), FDC 793. Mentioned in HTMW 224 as Echo I. Mentioned in THFRO.
 
 =item Echo II
 
@@ -902,13 +910,17 @@ or nuclear-powered auxiliary / rescue submarine (SSAN), FDC 797.
 
 Nuclear-powered aerodynamic missile submarine (SSGN), FDC 786.
 
+=item Echo III
+
+Nuclear-powered attack submarine (SSN), HTMW 224.
+
 =item Fox Trot
 
-Attack submarine (SS), FDC 795.
+Attack submarine (SS), FDC 795, HTMW 224.
 
 =item Golf II
 
-Ballistic missile submarine (SSB), FDC 783. Mentioned (without number) in THFRO.
+Ballistic missile submarine (SSB), FDC 783, HTMW 224. Mentioned (without number) in THFRO.
 
 =item Golf II Mod
 
@@ -920,7 +932,7 @@ Nuclear-powered command submarine (SSQN), FDC 798.
 
 =item Hotel III
 
-Nuclear-powered ballistic missile submarine (SSBN), FDC 782.
+Nuclear-powered ballistic missile submarine (SSBN), FDC 782, HTMW 224.
 
 =item India
 
@@ -928,7 +940,7 @@ Auxiliary / rescue submarine (SSA), FDC 797.
 
 =item Juliett
 
-Aerodynamic missile submarine (SSG), FDC 788.
+Aerodynamic missile submarine (SSG), FDC 788, HTMW 224.
 
 =item Juliett Mod
 
@@ -936,11 +948,15 @@ Aerodynamic missile submarine (SSG), FDC 788.
 
 =item Kilo
 
-Attack submarine (SS), FDC 794.
+Attack submarine (SS), FDC 794, HTMW 253.
 
 =item Lima
 
 Auxiliary / rescue submarine (SSA), FDC 797.
+
+=item Mike
+
+Submarine, unspecified category, HTMW 224+253.
 
 =item Mir
 
@@ -948,11 +964,11 @@ Tracked rescue submarine, FDC 798.
 
 =item November
 
-Nuclear-powered attack submarine (SSN), FDC 793. Mentioned in THFRO.
+Nuclear-powered attack submarine (SSN), FDC 793, HTMW 224. Mentioned in THFRO.
 
 =item Oscar I
 
-Nuclear-powered aerodynamic missile submarine (SSGN), FDC 784. Mentioned (without number) in THFRO.
+Nuclear-powered aerodynamic missile submarine (SSGN), FDC 784, HTMW 253. Mentioned (without number) in THFRO.
 
 =item Oscar II
 
@@ -960,23 +976,23 @@ Nuclear-powered aerodynamic missile submarine (SSGN), FDC 783.
 
 =item Papa
 
-Nuclear-powered aerodynamic missile submarine (SSGN), FDC 785.
+Nuclear-powered aerodynamic missile submarine (SSGN), FDC 785, HTMW 224.
 
 =item Romeo
 
-Attack submarine (SS), FDC 796.
+Attack submarine (SS), FDC 796, HTMW 224.
 
 =item Sierra
 
-Nuclear-powered attack submarine (SSN), FDC 790.
+Nuclear-powered attack submarine (SSN), FDC 790, HTMW 224+253.
 
 =item Tango
 
-Attack submarine (SS), FDC 795. Mentioned in THFRO.
+Attack submarine (SS), FDC 795, HTMW 224+253. Mentioned in THFRO.
 
 =item Typhoon
 
-Nuclear-powered ballistic missile submarine (SSBN), FDC 779. A prominent character of THFRO.
+Nuclear-powered ballistic missile submarine (SSBN), FDC 779, HTMW 224. A prominent character of THFRO.
 
 =item Uniform
 
@@ -984,19 +1000,19 @@ Nuclear-powered auxiliary / rescue submarine (SSAN), FDC 797.
 
 =item Victor I
 
-Nuclear-powered attack submarine (SSN), FDC 793. Mentioned in THFRO.
+Nuclear-powered attack submarine (SSN), FDC 793, HTMW 224. Mentioned in THFRO.
 
 =item Victor II
 
-Nuclear-powered attack submarine (SSN), FDC 792. Mentioned in THFRO.
+Nuclear-powered attack submarine (SSN), FDC 792, HTMW 224. Mentioned in THFRO.
 
 =item Victor III
 
-Nuclear-powered attack submarine (SSN), FDC 791.
+Nuclear-powered attack submarine (SSN), FDC 791, HTMW 224+253.
 
 =item Whiskey
 
-Attack submarine (SS), FDC 796.
+Attack submarine (SS), FDC 796, HTMW 224.
 
 =item X Ray
 
@@ -1006,6 +1022,7 @@ Nuclear-powered auxiliary / rescue submarine (SSAN), FDC 798.
 
 Nuclear-powered ballistic missile submarine (SSBN), FDC 782
 or nuclear-powered attack submarine (SSN), FDC 794.
+Also mentioned in HTMW 224+253 without precisions.
 Mentioned (without number) in THFRO.
 
 =item Yankee II
@@ -1036,11 +1053,11 @@ Yak aircraft, number unknown, AWA 392.
 
 =item Backfire
 
-Tu-22M / Tu-26 variable geometry bomber, JWARH 37, 189, FDC 775, AWA 392, SPIAW.
+Tu-22M / Tu-26 variable geometry bomber, JWARH 37, 189, FDC 775, AWA 392, SPIAW, HTMW 165+267+436.
 
 =item Badger
 
-Tu-16 bomber, JWARH 37, 93, LFDC 368, FDC 774, AWA 392.
+Tu-16 bomber, JWARH 37, 93, LFDC 368, FDC 774, AWA 392, HTMW 165+267+436.
 
 =item Bank
 
@@ -1060,7 +1077,7 @@ Il-28 bomber, JWARH 37, 216, LFDC 368, AWA 392.
 
 =item Bear
 
-Tu-95 bomber or Tu-142 bomber (Bear F and H), JWARH 37, 121, LFDC 368, FDC 774, AWA 392.
+Tu-95 bomber or Tu-142 bomber (Bear F and H), JWARH 37, 121, LFDC 368, FDC 774, AWA 392, HTMW 165+436.
 
 =item Beast
 
@@ -1068,15 +1085,15 @@ Il-10, AWA 392.
 
 =item Bison
 
-M-4 bomber, JWARH 37, 94, AWA 392.
+M-4 bomber, JWARH 37, 94, AWA 392, HTMW 436.
 
 =item Blackjack
 
-Tu supersonic bomber, JWARH 37, AWA 392.
+Tu supersonic bomber, JWARH 37, AWA 392, HTMW 165+436.
 
 =item Blinder
 
-Tu-22 bomber, JWARH 37, 132, LFDC 368, FDC 774, AWA 392.
+Tu-22 bomber, JWARH 37, 132, LFDC 368, FDC 774, AWA 392, HTMW 165+436.
 
 =item Blowlamp
 
@@ -1288,7 +1305,7 @@ Yak-17 fighter, AWA 392.
 
 =item Fencer
 
-Su-24 variable geometry strike fighter, PL 211, JWARH 38, 187, ASt, AWA 392. Or Su-19 according to SPIAW.
+Su-24 variable geometry strike fighter, PL 211, JWARH 38, 187, ASt, AWA 392, HTMW 165. Or Su-19 according to SPIAW.
 
 =item Fiddler
 
@@ -1304,7 +1321,7 @@ Yak-28 fighter, PL 222, JWARH 38, 98, AWA 392.
 
 =item Fishbed
 
-MiG-21 fighter, PL 211, JWARH 38, 177, ASu, DF, AWA 392, SPIAW.
+MiG-21 fighter, PL 211, JWARH 38, 177, ASu, DF, AWA 392, SPIAW, HTMW 165.
 
 =item Fishpot
 
@@ -1313,15 +1330,15 @@ Su-9/Su-11 fighter, PL 222, JWARH 38, 176, AWA 392.
 =item Fitter
 
 Su-7 fighter (Fitter A) or Su-17/20/22 variable geometry fighter (Fitter C and D) or
-Su-17 fighter (Fitter K), PL 212, JWARH 38, 57, 186, ASu, FDC 775, AWA 392, SPIAW.
+Su-17 fighter (Fitter K), PL 212, JWARH 38, 57, 186, ASu, FDC 775, AWA 392, SPIAW, HTMW 165.
 
 =item Flagon
 
-Su-21 fighter aircraft, PL 222. Or Su-15 fighter, JWARH 38, 175, ASu, DF, AWA 392, SPIAW.
+Su-21 fighter aircraft, PL 222. Or Su-15 fighter, JWARH 38, 175, ASu, DF, AWA 392, SPIAW, HTMW 165.
 
 =item Flanker
 
-Su-27 fighter, PL 208, JWARH 38, 88, ASu, AWA 392.
+Su-27 fighter, PL 208, JWARH 38, 88, ASu, AWA 392, HTMW 165.
 
 =item Flashlight
 
@@ -1330,7 +1347,7 @@ Yak-25 and Yak-27 fighters, AWA 392.
 =item Flogger
 
 MiG-23 variable geometry fighter (Flogger A and G) or MiG-27 variable geometry
-fighter (Flogger D and J), PL 210, JWARH 38, 184, 185, ASu, ASt, DF, AWA 392, SPIAW.
+fighter (Flogger D and J), PL 210, JWARH 38, 184, 185, ASu, ASt, DF, AWA 392, SPIAW, HTMW 165.
 
 =item Flora
 
@@ -1338,15 +1355,15 @@ Yak-23 fighter, AWA 392.
 
 =item Forger
 
-Yak-38 VSTOL fighter, PL 214, JWARH 38, 64, FDC 775, AWA 392. Mentioned in THFRO.
+Yak-38 VSTOL fighter, PL 214, JWARH 38, 64, FDC 775, AWA 392, HTMW 165. Mentioned in THFRO.
 
 =item Foxbat
 
-MiG-25 interceptor, PL 223, 224, JWARH 38, 85, DF, AWA 392, SPIAW.
+MiG-25 interceptor, PL 223, 224, JWARH 38, 85, DF, AWA 392, SPIAW, HTMW 165.
 
 =item Foxhound
 
-MiG-31 interceptor, PL 224, JWARH 38, 86, ASu, AWA 392.
+MiG-31 interceptor, PL 224, JWARH 38, 86, ASu, AWA 392, HTMW 165.
 
 =item Frank
 
@@ -1366,11 +1383,11 @@ La-9 fighter, AWA 392.
 
 =item Frogfoot
 
-Su-25 attack aircraft, PL 209, JWARH 38, 212, ASt, AWA 392.
+Su-25 attack aircraft, PL 209, JWARH 38, 212, ASt, AWA 392, HTMW 165.
 
 =item Fulcrum
 
-MiG-29 fighter, PL 208, JWARH 38, 87, ASu, AWA 392.
+MiG-29 fighter, PL 208, JWARH 38, 87, ASu, AWA 392, HTMW 165.
 
 =item Madge
 
@@ -1394,12 +1411,12 @@ Su-11U variant of Fishpot, JWARH 38, AWA 392.
 
 =item Mail
 
-Be-12 amphibian aircraft, JWARH 39, 460, FDC 775, AWA 392. AWA 392 gives
+Be-12 amphibian aircraft, JWARH 39, 460, FDC 775, AWA 392, HTMW 267. AWA 392 gives
 also the M-12 designation.
 
 =item Mainstay
 
-Airborne radar aircraft, JWARH 39, AWA 392.
+Airborne radar aircraft, JWARH 39, AWA 392, HTMW 267.
 
 =item Mandrake
 
@@ -1431,7 +1448,7 @@ Yak-18 trainer, JWARH 39, 360, AWA 392.
 
 =item May
 
-Il-38 maritime reconnaissance aircraft, JWARH 39, 316, FDC 775, AWA 392.
+Il-38 maritime reconnaissance aircraft, JWARH 39, 316, FDC 775, AWA 392, HTMW 267.
 
 =item Maya
 
@@ -1467,7 +1484,7 @@ Lend-lease PBY Catalina, AWA 392.
 
 =item Moss
 
-Tu-126 airborne early warning aircraft, JWARH 39, 122, AWA 392.
+Tu-126 airborne early warning aircraft, JWARH 39, 122, AWA 392, HTMW 267.
 
 =item Mote
 
@@ -1498,7 +1515,7 @@ AWA, because there are two lines with Mi-10: Hake and Harke.
 
 =item Halo
 
-Mi-26 heavy transport helicopter, PL 201, JWARH 38, 538, AWA 392.
+Mi-26 heavy transport helicopter, PL 201, JWARH 38, 538, AWA 392, HTMW 163.
 
 =item Hare
 
@@ -1514,15 +1531,15 @@ Ka-20 ASW helicopter, LFDC 368.
 
 =item Havoc
 
-Mi-28 attack helicopter, PL 198, JWARH 38, AWA 392.
+Mi-28 attack helicopter, PL 198, JWARH 38, AWA 392, HTMW 163.
 
 =item Haze
 
-Mi-14 naval helicopter, JWARH 38, 529, FDC 775, AWA 392.
+Mi-14 naval helicopter, JWARH 38, 529, FDC 775, AWA 392, HTMW 267.
 
 =item Helix
 
-Ka-27 or Ka-32 naval transport and support medium helicopter, PL 201, JWARH 38, 542, FDC 775, AWA 392.
+Ka-27 or Ka-32 naval transport and support medium helicopter, PL 201, JWARH 38, 542, FDC 775, AWA 392, HTMW 163+267.
 
 =item Hen
 
@@ -1530,11 +1547,11 @@ Ka-15 light helicopter, JWARH 38, AWA 392.
 
 =item Hind
 
-Mi-24 / Mi-25 attack and transport helicopter, PL 199, JWARH 38, 530, AWA 392.
+Mi-24 / Mi-25 attack and transport helicopter, PL 199, JWARH 38, 530, AWA 392, HTMW 165.
 
 =item Hip
 
-Mi-8 or Mi-17 medium transport and support helicopter, PL 203, JWARH 38, 528, FDC 775, AWA 392.
+Mi-8 or Mi-17 medium transport and support helicopter, PL 203, JWARH 38, 528, FDC 775, AWA 392, HTMW 165.
 
 =item Hog
 
@@ -1554,7 +1571,7 @@ Ka-26 light transport helicopter, PL 200, JWARH 38, 543, AWA 392.
 
 =item Hook
 
-Mi-6 heavy transport helicopter, PL 202, JWARH 38, 537, AWA 392.
+Mi-6 heavy transport helicopter, PL 202, JWARH 38, 537, AWA 392, HTMW 165.
 
 =item Hoplite
 
@@ -1562,7 +1579,7 @@ Mi-2  light transport and support helicopter, PL 204, JWARH 38, 513, AWA 392.
 
 =item Hormone
 
-Ka-25 naval helicopter, JWARH 38, 541, FDC 775, AWA 392.
+Ka-25 naval helicopter, JWARH 38, 541, FDC 775, AWA 392, HTMW 163+267.
 
 =item Horse
 
@@ -1587,11 +1604,11 @@ the same.
 
 =item Acrid
 
-AA-6 air-to-air missile, PL 223, JWARH 30, DF, SPIAW.
+AA-6 air-to-air missile, PL 223, JWARH 30, DF, SPIAW, HTMW 174.
 
 =item Alamo
 
-AA-10 air-to-air missile, PL 225, ASu, DF.
+AA-10 air-to-air missile, PL 225, ASu, DF, HTMW 174.
 
 =item Alkali
 
@@ -1599,19 +1616,19 @@ AA-1 air-to-air missile, PL 213, SPIAW.
 
 =item Amos
 
-AA-9 air-to-air missile, PL 224, ASu.
+AA-9 air-to-air missile, PL 224, ASu, HTMW 174.
 
 =item Anab
 
-AA-3 air-to-air missile, PL 222, JWARH 29, ASu, SPIAW.
+AA-3 air-to-air missile, PL 222, JWARH 29, ASu, SPIAW, HTMW 174.
 
 =item Apex
 
-AA-7 air-to-air missile, PL 208, 210, 211, 224, JWARH 29, ASu, SPIAW.
+AA-7 air-to-air missile, PL 208, 210, 211, 224, JWARH 29, ASu, SPIAW, HTMW 174.
 
 =item Aphid
 
-AA-8 air-to-air missile, PL 208, 210, 211, 214, 224, JWARH 29, ASu, SPIAW.
+AA-8 air-to-air missile, PL 208, 210, 211, 214, 224, JWARH 29, ASu, SPIAW, HTMW 174.
 
 =item Archer
 
@@ -1623,7 +1640,7 @@ AA-5 air-to-air missile, PL 223, JWARH 29, DF.
 
 =item Atoll
 
-AA-2 air-to-air missile, PL 210, 213, 222, JWARH 30, DF, SPIAW. Mentioned in RT, F2 and THFRO.
+AA-2 air-to-air missile, PL 210, 213, 222, JWARH 30, DF, SPIAW, HTMW 174. Mentioned in RT, F2 and THFRO.
 
 =item Frog
 
@@ -1681,10 +1698,11 @@ SA-10 / SA-N-6 anti-aircraft missile, PL 115, FDC 755.
 
 SA-2 / SNA-1 anti-aircraft missile, LFDC 367, SPIAW.
 
-=item Kangroo
+=item Kangaroo
 
-AS-3 air-to-ground missile (surely a typo for kangaroo), JWARH 25.
-Note: LFDC 367 gives the name with a French spelling: "Kangourou".
+AS-3 air-to-ground missile, HTMW 175.
+Note: JWARH 25 gives the name "Kangroo" (surely a typo for kangaroo),
+and LFDC 367 gives the name with a French spelling: "Kangourou".
 
 =item Karen
 
@@ -1696,7 +1714,7 @@ AS-14 air-to-ground missile, PL 211, 226.
 
 =item Kelt
 
-AS-5 air-to-ground missile, JWARH 25, FDC 756.
+AS-5 air-to-ground missile, JWARH 25, FDC 756, HTMW 174.
 
 =item Kennel
 
@@ -1708,19 +1726,19 @@ AS-15 air-to-ground missile, FDC 756.
 
 =item Kerry
 
-AS-7 air-to-ground missile, PL 209, 212, 214, 226, JWARH 27, FDC 756.
+AS-7 air-to-ground missile, PL 209, 212, 214, 226, JWARH 27, FDC 756, HTMW 175.
 
 =item Kingfish
 
-AS-6 air-to-ground missile, FDC 756, named Kingfisher by JWARH 25.
+AS-6 air-to-ground missile, FDC 756, HTMW 174, named Kingfisher by JWARH 25.
 
 =item Kipper
 
-AS-2 air-to-ground missile, JWARH 25, LFDC 367, FDC 756.
+AS-2 air-to-ground missile, JWARH 25, LFDC 367, FDC 756, HTMW 175.
 
 =item Kitchen
 
-AS-4 air-to-ground missile, LFDC 367, FDC 756.
+AS-4 air-to-ground missile, LFDC 367, FDC 756, HTMW 175.
 
 =item Kyle
 
@@ -1728,7 +1746,7 @@ AS-9 air-to-ground missile, FDC 756.
 
 =item Sagger
 
-AT-3 Antiarmour missile mounted on BMP-1, BMD-1, BVP-80A, OT-64C, BRDM-2, BRDM, PL 37, 38, 40, 49, 57, 59, 60, 227.
+AT-3 Antiarmour missile mounted on BMP-1, BMD-1, BVP-80A, OT-64C, BRDM-2, BRDM, PL 37, 38, 40, 49, 57, 59, 60, 227, HTMW 90.
 
 =item Sampson
 
@@ -1792,11 +1810,11 @@ SS-N-17 ballistic missile, FDC 754.
 
 =item Songster
 
-AT-8 antiarmour missile mounted on T-80BV and T-64B tanks, PL 17, 19.
+AT-8 antiarmour missile mounted on T-80BV and T-64B tanks, PL 17, 19, HTMW 90.
 
 =item Spandrel
 
-AT-5 antiarmour missile mounted on BMP-2, BMD-2, BMP-30, BRDM-2, PL 35, 42, 48, 60.
+AT-5 antiarmour missile mounted on BMP-2, BMD-2, BMP-30, BRDM-2, PL 35, 42, 48, 60, HTMW 90.
 
 =item Spider
 
@@ -1804,11 +1822,11 @@ SS-23, PL 95.
 
 =item Spigot
 
-AT-4 antiarmour missile mounted on BMP-1, BMD-1, BMD-2, BMP-30, PL 37, 38, 41, 42, 48.
+AT-4 antiarmour missile mounted on BMP-1, BMD-1, BMD-2, BMP-30, PL 37, 38, 41, 42, 48, HTMW 90.
 
 =item Spiral
 
-AT-3 antiarmour missile, PL 227.
+AT-3 antiarmour missile, PL 227, HTMW 90.
 
 =item Stallion
 

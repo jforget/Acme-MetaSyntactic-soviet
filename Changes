@@ -3,11 +3,13 @@
 Revision history for Acme-MetaSyntactic-soviet
 
 0.05    ????
+        - play the CPANTS game: adding "strict" and "warnings" as prerequisite.
+        - add data from Dunnigan's "How to Make War".
 
 0.04    2016-05-01, the Guideline version
         Fourth version, released on the 56th anniversary of the downing of Gary Power's U-2 by a SA-2 Guideline.
         - fix some issues (duplicate entries)
-        - add data from "Les Flottes de Combat 1968", SPI-TSR's Air War", GTG's "Rolling Thunder",
+        - add data from "Les Flottes de Combat 1968", SPI-TSR's "Air War", GTG's "Rolling Thunder",
         "The Hunt for Red October" and "Fox Two".
 
 0.03    2012-09-06, the Foxbat version

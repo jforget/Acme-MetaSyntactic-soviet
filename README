@@ -24,6 +24,12 @@ perldoc command.
 
 You can also look for information at:
 
+    Search CPAN
+        http://search.cpan.org/dist/Acme-MetaSyntactic-soviet
+
+    meta::CPAN
+        https://metacpan.org/pod/Acme::MetaSyntactic::soviet
+
     RT, CPAN's request tracker
         http://rt.cpan.org/NoAuth/Bugs.html?Dist=Acme-MetaSyntactic-soviet
 
@@ -32,9 +38,6 @@ You can also look for information at:
 
     CPAN Ratings
         http://cpanratings.perl.org/d/Acme-MetaSyntactic-soviet
-
-    Search CPAN
-        http://search.cpan.org/dist/Acme-MetaSyntactic-soviet
 
 
 COPYRIGHT AND LICENCE

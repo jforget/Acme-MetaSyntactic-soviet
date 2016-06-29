@@ -36,8 +36,10 @@ WriteMakefile
     'EXE_FILES'      => [],
     'VERSION_FROM'   => 'lib/Acme/MetaSyntactic/soviet.pm',
     'PREREQ_PM' => {
-                     'Test::More' => 0,
-                     'Acme::MetaSyntactic::MultiList' => 1
+                     'Test::More'                     => 0,
+                     'Acme::MetaSyntactic::MultiList' => 1,
+                     'strict'                         => 0,
+                     'warnings'                       => 0,
                    },
     'AUTHOR'         => [ 'Jean Forget <JFORGET@cpan.org>' ],
     'LICENSE'        => 'perl',
@@ -46,15 +48,25 @@ WriteMakefile
     META_MERGE       => {
        dynamic_config => 0,
        prereqs => {
+         build => {
+           requires => {
+             'strict'                         => 0,
+             'warnings'                       => 0,
+           },
+         },
          runtime => {
            requires => {
              'Acme::MetaSyntactic::MultiList' => 1,
              'perl'                           => '5.6.2',
+             'strict'                         => 0,
+             'warnings'                       => 0,
            },
          },
          test => {
            requires => {
              'Test::More'          => '0',
+             'strict'                         => 0,
+             'warnings'                       => 0,
            },
          },
        },

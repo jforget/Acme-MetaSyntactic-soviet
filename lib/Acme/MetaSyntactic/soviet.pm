@@ -278,6 +278,15 @@ published by Fontana in 1987
 ISBN 0-00-617276-8
 abbreviated at I<THFRO>.
 
+=item *
+
+I<Red Storm Rising>
+by Tom Clancy,
+first published by G.P. Putnam's Sons in 1986,
+published by Berkley International Edition in 1987
+ISBN 0-425-10242-4
+abbreviated as I<RSR>.
+
 =back
 
 =head1 SOVIET EQUIPMENT
@@ -351,7 +360,7 @@ Navigation radar, FDC 758.
 
 =item Down Beat
 
-Radar mounted on Backfire, FDC 760.
+Radar mounted on Backfire, FDC 760. Mentionned in RSR.
 
 =item Drum Tilt
 
@@ -383,7 +392,7 @@ Warning and acquisition radar, PL 123.
 
 =item Fox Fire
 
-Radar on MiG-25, DF.
+Radar on MiG-25, DF. Mentionned in RSR.
 
 =item Front Dome
 
@@ -423,7 +432,7 @@ Radar on MiG-21F and Su-17/22, ASu, DF.
 
 =item High Lark
 
-Radar on MiG-23M and MiG-23MF, ASu, DF.
+Radar on MiG-23M and MiG-23MF, ASu, DF. Mentioned in RSR.
 
 =item High Sieve
 
@@ -668,7 +677,7 @@ Satellite communication, FDC 760.
 
 =item Big Bulge
 
-Satellite communication, FDC 760.
+Satellite communication, FDC 760. Mentioned several times in RSR.
 
 =item Brick Group
 
@@ -728,7 +737,7 @@ IFF equipemnt, FDC 760.
 
 =item Horse Jaw
 
-Hull mounted sonar, FDC 760.
+Hull mounted sonar, FDC 760. Mentionned in RSR.
 
 =item Horse Tail
 
@@ -863,7 +872,9 @@ Nuclear-powered attack submarine (SSN), FDC 790, HTMW 224+253.
 
 =item Alfa
 
-Nuclear-powered attack submarine (SSN), FDC 789, HTMW 253. Spelled "Alpha" in HTMW 284. A prominent character of THFRO.
+Nuclear-powered attack submarine (SSN), FDC 789, HTMW 253. Spelled
+"Alpha" in HTMW 284. A prominent character of THFRO, appears in a
+crucial part of RSR.
 
 =item Beluga
 
@@ -875,7 +886,7 @@ Auxiliary / rescue submarine (SST), FDC 798.
 
 =item Charlie I
 
-Nuclear-powered aerodynamic missile submarine (SSGN), FDC 785, HTMW 224. Mentioned in THFRO.
+Nuclear-powered aerodynamic missile submarine (SSGN), FDC 785, HTMW 224. Mentioned in THFRO and RSR.
 
 =item Charlie II
 
@@ -883,7 +894,7 @@ Nuclear-powered aerodynamic missile submarine (SSGN), FDC 785, HTMW 224+253. Men
 
 =item Delta I
 
-Nuclear-powered ballistic missile submarine (SSBN), FDC 781, HTMW 224. Mentioned (without number) in THFRO.
+Nuclear-powered ballistic missile submarine (SSBN), FDC 781, HTMW 224. Mentioned (without number) in THFRO and RSR.
 
 =item Delta II
 
@@ -899,7 +910,7 @@ Nuclear-powered ballistic missile submarine (SSBN), FDC 780, HTMW 224.
 
 =item Echo
 
-Nuclear-powered attack submarine (SSN), FDC 793. Mentioned in HTMW 224 as Echo I. Mentioned in THFRO.
+Nuclear-powered attack submarine (SSN), FDC 793. Mentioned in HTMW 224 as Echo I. Mentioned in THFRO and RSR.
 
 =item Echo II
 
@@ -916,7 +927,7 @@ Nuclear-powered attack submarine (SSN), HTMW 224.
 
 =item Fox Trot
 
-Attack submarine (SS), FDC 795, HTMW 224.
+Attack submarine (SS), FDC 795, HTMW 224. Mentioned iun RSR.
 
 =item Golf II
 
@@ -940,7 +951,7 @@ Auxiliary / rescue submarine (SSA), FDC 797.
 
 =item Juliett
 
-Aerodynamic missile submarine (SSG), FDC 788, HTMW 224.
+Aerodynamic missile submarine (SSG), FDC 788, HTMW 224. Mentioned in RSR.
 
 =item Juliett Mod
 
@@ -956,7 +967,7 @@ Auxiliary / rescue submarine (SSA), FDC 797.
 
 =item Mike
 
-Submarine, unspecified category, HTMW 224+253.
+Submarine, unspecified category, HTMW 224+253. Mentioned in RSR.
 
 =item Mir
 
@@ -964,11 +975,11 @@ Tracked rescue submarine, FDC 798.
 
 =item November
 
-Nuclear-powered attack submarine (SSN), FDC 793, HTMW 224. Mentioned in THFRO.
+Nuclear-powered attack submarine (SSN), FDC 793, HTMW 224. Mentioned in THFRO and RSR.
 
 =item Oscar I
 
-Nuclear-powered aerodynamic missile submarine (SSGN), FDC 784, HTMW 253. Mentioned (without number) in THFRO.
+Nuclear-powered aerodynamic missile submarine (SSGN), FDC 784, HTMW 253. Mentioned (without number) in THFRO and RSR.
 
 =item Oscar II
 
@@ -976,7 +987,7 @@ Nuclear-powered aerodynamic missile submarine (SSGN), FDC 783.
 
 =item Papa
 
-Nuclear-powered aerodynamic missile submarine (SSGN), FDC 785, HTMW 224.
+Nuclear-powered aerodynamic missile submarine (SSGN), FDC 785, HTMW 224. Mentioned in RSR.
 
 =item Romeo
 
@@ -988,7 +999,7 @@ Nuclear-powered attack submarine (SSN), FDC 790, HTMW 224+253.
 
 =item Tango
 
-Attack submarine (SS), FDC 795, HTMW 224+253. Mentioned in THFRO.
+Attack submarine (SS), FDC 795, HTMW 224+253. Mentioned in THFRO and a prominent character of RSR.
 
 =item Typhoon
 
@@ -1000,7 +1011,7 @@ Nuclear-powered auxiliary / rescue submarine (SSAN), FDC 797.
 
 =item Victor I
 
-Nuclear-powered attack submarine (SSN), FDC 793, HTMW 224. Mentioned in THFRO.
+Nuclear-powered attack submarine (SSN), FDC 793, HTMW 224. Mentioned in THFRO and a prominent character of RSR.
 
 =item Victor II
 
@@ -1020,10 +1031,10 @@ Nuclear-powered auxiliary / rescue submarine (SSAN), FDC 798.
 
 =item Yankee I
 
-Nuclear-powered ballistic missile submarine (SSBN), FDC 782
-or nuclear-powered attack submarine (SSN), FDC 794.
-Also mentioned in HTMW 224+253 without precisions.
-Mentioned (without number) in THFRO.
+Nuclear-powered  ballistic  missile   submarine  (SSBN),  FDC  782  or
+nuclear-powered attack  submarine (SSN),  FDC 794.  Also  mentioned in
+HTMW 224+253 without precisions.   Mentioned (without number) in THFRO
+and RSR.
 
 =item Yankee II
 
@@ -1053,11 +1064,13 @@ Yak aircraft, number unknown, AWA 392.
 
 =item Backfire
 
-Tu-22M / Tu-26 variable geometry bomber, JWARH 37, 189, FDC 775, AWA 392, SPIAW, HTMW 165+267+436.
+Tu-22M / Tu-26  variable geometry bomber, JWARH 37,  189, FDC 775, AWA
+392, SPIAW, HTMW 165+267+436.  A very prominent character in RSR.
 
 =item Badger
 
-Tu-16 bomber, JWARH 37, 93, LFDC 368, FDC 774, AWA 392, HTMW 165+267+436.
+Tu-16  bomber,  JWARH  37,  93,  LFDC  368, FDC  774,  AWA  392,  HTMW
+165+267+436.  A prominent character in RSR.
 
 =item Bank
 
@@ -1077,7 +1090,8 @@ Il-28 bomber, JWARH 37, 216, LFDC 368, AWA 392.
 
 =item Bear
 
-Tu-95 bomber or Tu-142 bomber (Bear F and H), JWARH 37, 121, LFDC 368, FDC 774, AWA 392, HTMW 165+436.
+Tu-95 bomber or Tu-142 bomber (Bear F and H), JWARH 37, 121, LFDC 368,
+FDC 774, AWA 392, HTMW 165+436.  A prominent character in RSR.
 
 =item Beast
 
@@ -1093,7 +1107,7 @@ Tu supersonic bomber, JWARH 37, AWA 392, HTMW 165+436.
 
 =item Blinder
 
-Tu-22 bomber, JWARH 37, 132, LFDC 368, FDC 774, AWA 392, HTMW 165+436.
+Tu-22 bomber, JWARH 37, 132, LFDC 368, FDC 774, AWA 392, HTMW 165+436. Mentioned in RSR.
 
 =item Blowlamp
 
@@ -1157,7 +1171,7 @@ An-8 transport aircraft, JWARH 37, AWA 392.
 
 =item Candid
 
-Il-76 transport aircraft, PL 218, JWARH 37, 118, AWA 392.
+Il-76 transport aircraft, PL 218, JWARH 37, 118, AWA 392. Mentioned in RSR.
 
 =item Careless
 
@@ -1338,7 +1352,7 @@ Su-21 fighter aircraft, PL 222. Or Su-15 fighter, JWARH 38, 175, ASu, DF, AWA 39
 
 =item Flanker
 
-Su-27 fighter, PL 208, JWARH 38, 88, ASu, AWA 392, HTMW 165.
+Su-27 fighter, PL 208, JWARH 38, 88, ASu, AWA 392, HTMW 165. Mentioned in RSR.
 
 =item Flashlight
 
@@ -1346,8 +1360,9 @@ Yak-25 and Yak-27 fighters, AWA 392.
 
 =item Flogger
 
-MiG-23 variable geometry fighter (Flogger A and G) or MiG-27 variable geometry
-fighter (Flogger D and J), PL 210, JWARH 38, 184, 185, ASu, ASt, DF, AWA 392, SPIAW, HTMW 165.
+MiG-23 variable geometry fighter (Flogger  A and G) or MiG-27 variable
+geometry fighter (Flogger  D and J), PL 210, JWARH  38, 184, 185, ASu,
+ASt, DF, AWA 392, SPIAW, HTMW 165.  Mentioned in RSR.
 
 =item Flora
 
@@ -1359,7 +1374,7 @@ Yak-38 VSTOL fighter, PL 214, JWARH 38, 64, FDC 775, AWA 392, HTMW 165. Mentione
 
 =item Foxbat
 
-MiG-25 interceptor, PL 223, 224, JWARH 38, 85, DF, AWA 392, SPIAW, HTMW 165.
+MiG-25 interceptor, PL 223, 224, JWARH 38, 85, DF, AWA 392, SPIAW, HTMW 165. Mentioned in RSR.
 
 =item Foxhound
 
@@ -1387,7 +1402,7 @@ Su-25 attack aircraft, PL 209, JWARH 38, 212, ASt, AWA 392, HTMW 165.
 
 =item Fulcrum
 
-MiG-29 fighter, PL 208, JWARH 38, 87, ASu, AWA 392, HTMW 165.
+MiG-29 fighter, PL 208, JWARH 38, 87, ASu, AWA 392, HTMW 165. Mentioned in RSR.
 
 =item Madge
 
@@ -1416,7 +1431,7 @@ also the M-12 designation.
 
 =item Mainstay
 
-Airborne radar aircraft, JWARH 39, AWA 392, HTMW 267.
+Airborne radar aircraft, JWARH 39, AWA 392, HTMW 267. Mentioned in RSR.
 
 =item Mandrake
 
@@ -1448,7 +1463,7 @@ Yak-18 trainer, JWARH 39, 360, AWA 392.
 
 =item May
 
-Il-38 maritime reconnaissance aircraft, JWARH 39, 316, FDC 775, AWA 392, HTMW 267.
+Il-38 maritime reconnaissance aircraft, JWARH 39, 316, FDC 775, AWA 392, HTMW 267. Mentioned in RSR.
 
 =item Maya
 
@@ -1539,7 +1554,7 @@ Mi-14 naval helicopter, JWARH 38, 529, FDC 775, AWA 392, HTMW 267.
 
 =item Helix
 
-Ka-27 or Ka-32 naval transport and support medium helicopter, PL 201, JWARH 38, 542, FDC 775, AWA 392, HTMW 163+267.
+Ka-27 or Ka-32 naval transport and support medium helicopter, PL 201, JWARH 38, 542, FDC 775, AWA 392, HTMW 163+267. Mentioned in RSR.
 
 =item Hen
 
@@ -1547,11 +1562,11 @@ Ka-15 light helicopter, JWARH 38, AWA 392.
 
 =item Hind
 
-Mi-24 / Mi-25 attack and transport helicopter, PL 199, JWARH 38, 530, AWA 392, HTMW 165.
+Mi-24 / Mi-25 attack and transport helicopter, PL 199, JWARH 38, 530, AWA 392, HTMW 165. Mentioned in RSR.
 
 =item Hip
 
-Mi-8 or Mi-17 medium transport and support helicopter, PL 203, JWARH 38, 528, FDC 775, AWA 392, HTMW 165.
+Mi-8 or Mi-17 medium transport and support helicopter, PL 203, JWARH 38, 528, FDC 775, AWA 392, HTMW 165. Mentioned in RSR.
 
 =item Hog
 
@@ -1714,7 +1729,7 @@ AS-14 air-to-ground missile, PL 211, 226.
 
 =item Kelt
 
-AS-5 air-to-ground missile, JWARH 25, FDC 756, HTMW 174.
+AS-5 air-to-ground missile, JWARH 25, FDC 756, HTMW 174. Mentioned in RSR.
 
 =item Kennel
 
@@ -1730,7 +1745,7 @@ AS-7 air-to-ground missile, PL 209, 212, 214, 226, JWARH 27, FDC 756, HTMW 175.
 
 =item Kingfish
 
-AS-6 air-to-ground missile, FDC 756, HTMW 174, named Kingfisher by JWARH 25.
+AS-6 air-to-ground missile, FDC 756, HTMW 174, named Kingfisher by JWARH 25. Mentioned in RSR.
 
 =item Kipper
 

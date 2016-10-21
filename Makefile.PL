@@ -64,7 +64,7 @@ WriteMakefile
          },
          test => {
            requires => {
-             'Test::More'          => '0',
+             'Test::More'                     => '0',
              'strict'                         => 0,
              'warnings'                       => 0,
            },

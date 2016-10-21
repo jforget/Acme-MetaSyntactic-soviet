@@ -113,8 +113,9 @@ The default category is 'electronic'.
 
 =head1 VERSION
 
-This  is version  0.05, the  "xxxx"  version, released  on the  xxth
-anniversary of xxxx.
+This  is  version 0.05,  the  "Styx"  version,  released on  the  49th
+anniversary  of the  sinking of  the Israeli  destroyer Eilat  by Styx
+missiles fired from Egyptian patrol boats.
 
 =head1 SYNOPSIS
 
@@ -872,8 +873,8 @@ Nuclear-powered attack submarine (SSN), FDC 790, HTMW 224+253.
 
 =item Alfa
 
-Nuclear-powered attack submarine (SSN), FDC 789, HTMW 253. Spelled
-"Alpha" in HTMW 284. A prominent character of THFRO, appears in a
+Nuclear-powered  attack submarine  (SSN), FDC  789, HTMW  253. Spelled
+"Alpha"  in HTMW 284.  A prominent  character of  THFRO, appears  in a
 crucial part of RSR.
 
 =item Beluga
@@ -1319,7 +1320,8 @@ Yak-17 fighter, AWA 392.
 
 =item Fencer
 
-Su-24 variable geometry strike fighter, PL 211, JWARH 38, 187, ASt, AWA 392, HTMW 165. Or Su-19 according to SPIAW.
+Su-24 variable  geometry strike fighter,  PL 211, JWARH 38,  187, ASt,
+AWA 392, HTMW 165. Or Su-19 according to SPIAW.
 
 =item Fiddler
 
@@ -1343,8 +1345,9 @@ Su-9/Su-11 fighter, PL 222, JWARH 38, 176, AWA 392.
 
 =item Fitter
 
-Su-7 fighter (Fitter A) or Su-17/20/22 variable geometry fighter (Fitter C and D) or
-Su-17 fighter (Fitter K), PL 212, JWARH 38, 57, 186, ASu, FDC 775, AWA 392, SPIAW, HTMW 165.
+Su-7  fighter  (Fitter A)  or  Su-17/20/22  variable geometry  fighter
+(Fitter C  and D) or Su-17 fighter  (Fitter K), PL 212,  JWARH 38, 57,
+186, ASu, FDC 775, AWA 392, SPIAW, HTMW 165.
 
 =item Flagon
 
@@ -1426,8 +1429,8 @@ Su-11U variant of Fishpot, JWARH 38, AWA 392.
 
 =item Mail
 
-Be-12 amphibian aircraft, JWARH 39, 460, FDC 775, AWA 392, HTMW 267. AWA 392 gives
-also the M-12 designation.
+Be-12  amphibian aircraft,  JWARH  39,  460, FDC  775,  AWA 392,  HTMW
+267. AWA 392 gives also the M-12 designation.
 
 =item Mainstay
 
@@ -1525,8 +1528,9 @@ Po-2 utility aircraft, JWARH 39, AWA 392.
 
 =item Hake
 
-Mi-10 heavy transport helicopter, AWA 392. This is not a typo in
-AWA, because there are two lines with Mi-10: Hake and Harke.
+Mi-10 heavy transport helicopter, AWA 392.  This is not a typo in AWA,
+because there are  two lines with Mi-10: Hake and  Harke. On the other
+hand, it may be a copy-paste mishap.
 
 =item Halo
 
@@ -1554,7 +1558,8 @@ Mi-14 naval helicopter, JWARH 38, 529, FDC 775, AWA 392, HTMW 267.
 
 =item Helix
 
-Ka-27 or Ka-32 naval transport and support medium helicopter, PL 201, JWARH 38, 542, FDC 775, AWA 392, HTMW 163+267. Mentioned in RSR.
+Ka-27 or Ka-32 naval transport  and support medium helicopter, PL 201,
+JWARH 38, 542, FDC 775, AWA 392, HTMW 163+267. Mentioned in RSR.
 
 =item Hen
 
@@ -1566,7 +1571,8 @@ Mi-24 / Mi-25 attack and transport helicopter, PL 199, JWARH 38, 530, AWA 392, H
 
 =item Hip
 
-Mi-8 or Mi-17 medium transport and support helicopter, PL 203, JWARH 38, 528, FDC 775, AWA 392, HTMW 165. Mentioned in RSR.
+Mi-8 or Mi-17  medium transport and support helicopter,  PL 203, JWARH
+38, 528, FDC 775, AWA 392, HTMW 165. Mentioned in RSR.
 
 =item Hog
 

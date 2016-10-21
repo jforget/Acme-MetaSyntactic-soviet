@@ -12,7 +12,7 @@ use strict;
 
 use Acme::MetaSyntactic::MultiList;
 our @ISA = qw( Acme::MetaSyntactic::MultiList );
-our $VERSION = '0.05';
+our $VERSION = '0.06';
 
 my $data = { default => 'electronic' };
 my ($category2, $category3);
@@ -113,9 +113,8 @@ The default category is 'electronic'.
 
 =head1 VERSION
 
-This  is  version 0.05,  the  "Styx"  version,  released on  the  49th
-anniversary  of the  sinking of  the Israeli  destroyer Eilat  by Styx
-missiles fired from Egyptian patrol boats.
+This  is  version 0.06,  the  xxx  version,  released on  the  xxth
+anniversary  of xxx.
 
 =head1 SYNOPSIS
 

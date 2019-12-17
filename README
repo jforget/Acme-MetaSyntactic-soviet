@@ -5,7 +5,9 @@ codenames for various Soviet equipments.
 
 INSTALLATION
 
-To install this module, run the following commands:
+To install this module, use the CPAN shell or cpanminus.
+
+Or you can use the manual way by running the following commands:
 
 	perl Makefile.PL
 	make
@@ -24,20 +26,11 @@ perldoc command.
 
 You can also look for information at:
 
-    Search CPAN
-        http://search.cpan.org/dist/Acme-MetaSyntactic-soviet
-
     meta::CPAN
         https://metacpan.org/pod/Acme::MetaSyntactic::soviet
 
     RT, CPAN's request tracker
         http://rt.cpan.org/NoAuth/Bugs.html?Dist=Acme-MetaSyntactic-soviet
-
-    AnnoCPAN, Annotated CPAN documentation
-        http://annocpan.org/dist/Acme-MetaSyntactic-soviet
-
-    CPAN Ratings
-        http://cpanratings.perl.org/d/Acme-MetaSyntactic-soviet
 
 
 COPYRIGHT AND LICENCE

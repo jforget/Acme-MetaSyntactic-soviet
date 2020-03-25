@@ -244,6 +244,12 @@ published by Quill in 1988
 (ISBN 0-668-07979-2)
 abbreviated as I<HTMW>.
 
+=item *
+
+I<Science et Vie> special issue I<Aviation 77>
+published by Excelsior Publications SA in May 1977
+abbreviated as I<S&V>.
+
 =back
 
 =head2 Minor Sources
@@ -286,6 +292,14 @@ first published by G.P. Putnam's Sons in 1986,
 published by Berkley International Edition in 1987
 ISBN 0-425-10242-4
 abbreviated as I<RSR>.
+
+=item *
+
+I<Helicopter Aces>
+by James W Bradin,
+published by Avon Books in 1990,
+ISBN 0-380-75847-4,
+abbreviated as I<HA>.
 
 =back
 
@@ -1064,8 +1078,9 @@ Yak aircraft, number unknown, AWA 392.
 
 =item Backfire
 
-Tu-22M / Tu-26  variable geometry bomber, JWARH 37,  189, FDC 775, AWA
-392, SPIAW, HTMW 165+267+436.  A very prominent character in RSR.
+Tu-22M / Tu-26  variable geometry bomber, JWARH 37, 189,  FDC 775, AWA
+392, SPIAW,  HTMW 165+267+436, S&V  92. A very prominent  character in
+RSR.
 
 =item Badger
 
@@ -1107,7 +1122,8 @@ Tu supersonic bomber, JWARH 37, AWA 392, HTMW 165+436.
 
 =item Blinder
 
-Tu-22 bomber, JWARH 37, 132, LFDC 368, FDC 774, AWA 392, HTMW 165+436. Mentioned in RSR.
+Tu-22 bomber, JWARH 37, 132, LFDC 368, FDC 774, AWA 392, HTMW 165+436,
+S&V 91. Mentioned in RSR.
 
 =item Blowlamp
 
@@ -1175,7 +1191,7 @@ Il-76 transport aircraft, PL 218, JWARH 37, 118, AWA 392. Mentioned in RSR.
 
 =item Careless
 
-Tu-154 transport aircraft, JWARH 37, 134, AWA 392.
+Tu-154 transport aircraft, JWARH 37, 134, AWA 392, S&V 51.
 
 =item Cash
 
@@ -1191,7 +1207,7 @@ An-10 transport aircraft, JWARH 37, AWA 392.
 
 =item Charger
 
-Tu-144 supersonic airliner, JWARH 37.
+Tu-144 supersonic airliner, JWARH 37, S&V 50.
 
 =item Clam
 
@@ -1203,7 +1219,7 @@ An-30 transport aircraft, JWARH 37, 28, AWA 392.
 
 =item Classic
 
-Il-62 airliner, JWARH 37, 138, AWA 392.
+Il-62 airliner, JWARH 37, 138, AWA 392, S&V 49.
 
 =item Cleat
 
@@ -1279,7 +1295,7 @@ Yak-10, AWA 392.
 
 =item Crusty
 
-Tu-134 transport aircraft, JWARH 38, 133, AWA 392.
+Tu-134 transport aircraft, JWARH 38, 133, AWA 392, S&V 50.
 
 =item Cub
 
@@ -1320,7 +1336,7 @@ Yak-17 fighter, AWA 392.
 =item Fencer
 
 Su-24 variable  geometry strike fighter,  PL 211, JWARH 38,  187, ASt,
-AWA 392, HTMW 165. Or Su-19 according to SPIAW.
+AWA 392, HTMW 165. Or Su-19 according to SPIAW and S&V 92.
 
 =item Fiddler
 
@@ -1336,7 +1352,7 @@ Yak-28 fighter, PL 222, JWARH 38, 98, AWA 392.
 
 =item Fishbed
 
-MiG-21 fighter, PL 211, JWARH 38, 177, ASu, DF, AWA 392, SPIAW, HTMW 165.
+MiG-21 fighter, PL 211, JWARH 38, 177, ASu, DF, AWA 392, SPIAW, HTMW 165, S&V 91.
 
 =item Fishpot
 
@@ -1350,7 +1366,8 @@ Su-7  fighter  (Fitter A)  or  Su-17/20/22  variable geometry  fighter
 
 =item Flagon
 
-Su-21 fighter aircraft, PL 222. Or Su-15 fighter, JWARH 38, 175, ASu, DF, AWA 392, SPIAW, HTMW 165.
+Su-21 fighter aircraft, PL 222. Or  Su-15 fighter, JWARH 38, 175, ASu,
+DF, AWA 392, SPIAW, HTMW 165, S&V 92.
 
 =item Flanker
 
@@ -1364,7 +1381,7 @@ Yak-25 and Yak-27 fighters, AWA 392.
 
 MiG-23 variable geometry fighter (Flogger  A and G) or MiG-27 variable
 geometry fighter (Flogger  D and J), PL 210, JWARH  38, 184, 185, ASu,
-ASt, DF, AWA 392, SPIAW, HTMW 165.  Mentioned in RSR.
+ASt, DF, AWA 392, SPIAW, HTMW 165, S&V 92.  Mentioned in RSR.
 
 =item Flora
 
@@ -1372,11 +1389,13 @@ Yak-23 fighter, AWA 392.
 
 =item Forger
 
-Yak-38 VSTOL fighter, PL 214, JWARH 38, 64, FDC 775, AWA 392, HTMW 165. Mentioned in THFRO.
+Yak-38 VSTOL  fighter, PL 214,  JWARH 38, 64,  FDC 775, AWA  392, HTMW
+165, S&V 156. Mentioned in THFRO.
 
 =item Foxbat
 
-MiG-25 interceptor, PL 223, 224, JWARH 38, 85, DF, AWA 392, SPIAW, HTMW 165. Mentioned in RSR.
+MiG-25 interceptor,  PL 223, 224,  JWARH 38,  85, DF, AWA  392, SPIAW,
+HTMW 165, S&V 91. Mentioned in RSR.
 
 =item Foxhound
 
@@ -1541,7 +1560,7 @@ Mi-1 / Mi-3 light helicopter, JWARH 38, 509, AWA 392.
 
 =item Harke
 
-Mi-10 heavy transport helicopter, PL 202, JWARH 38, 539, AWA 392.
+Mi-10 heavy transport helicopter, PL 202, JWARH 38, 539, AWA 392, S&V 122.
 
 =item Harp
 
@@ -1549,7 +1568,7 @@ Ka-20 ASW helicopter, LFDC 368.
 
 =item Havoc
 
-Mi-28 attack helicopter, PL 198, JWARH 38, AWA 392, HTMW 163.
+Mi-28 attack helicopter, PL 198, JWARH 38, AWA 392, HTMW 163. Mentioned in HA.
 
 =item Haze
 
@@ -1566,12 +1585,13 @@ Ka-15 light helicopter, JWARH 38, AWA 392.
 
 =item Hind
 
-Mi-24 / Mi-25 attack and transport helicopter, PL 199, JWARH 38, 530, AWA 392, HTMW 165. Mentioned in RSR.
+Mi-24 / Mi-25 attack and transport  helicopter, PL 199, JWARH 38, 530,
+AWA 392, HTMW 165. Mentioned in RSR and HA.
 
 =item Hip
 
 Mi-8 or Mi-17  medium transport and support helicopter,  PL 203, JWARH
-38, 528, FDC 775, AWA 392, HTMW 165. Mentioned in RSR.
+38, 528, FDC 775, AWA 392, HTMW 165, S&V 119. Mentioned in RSR.
 
 =item Hog
 
@@ -1579,19 +1599,19 @@ Ka-18 light helicopter, JWARH 38, AWA 392.
 
 =item Hokum
 
-Attack helicopter designed by Kamov, PL 198, JWARH 38, AWA 392.
+Attack helicopter designed by Kamov, PL 198, JWARH 38, AWA 392. Mentioned in HA.
 
 =item Homer
 
-Mi-12, AWA 392.
+Mi-12, AWA 392, S&V 122.
 
 =item Hoodlum
 
-Ka-26 light transport helicopter, PL 200, JWARH 38, 543, AWA 392.
+Ka-26 light transport helicopter, PL 200, JWARH 38, 543, AWA 392, S&V 118.
 
 =item Hook
 
-Mi-6 heavy transport helicopter, PL 202, JWARH 38, 537, AWA 392, HTMW 165.
+Mi-6 heavy transport helicopter, PL 202, JWARH 38, 537, AWA 392, HTMW 165, S&V 119.
 
 =item Hoplite
 

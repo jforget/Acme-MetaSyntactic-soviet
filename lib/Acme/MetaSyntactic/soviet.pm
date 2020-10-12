@@ -4,7 +4,7 @@
 #     Copyright (C) 2008, 2012, 2016 Jean Forget
 #
 #     See the license in the embedded documentation below.
-# 
+#
 package Acme::MetaSyntactic::soviet;
 
 use warnings;
@@ -121,7 +121,7 @@ anniversary  of xxx.
     use Acme::MetaSyntactic;
 
     my $meta = Acme::MetaSyntactic->new( 'soviet' );
-    
+
     print $meta->name();          # return a single name
     my @names = $meta->name( 4 ); # return 4 distinct names (if possible)
 
@@ -300,6 +300,15 @@ by James W Bradin,
 published by Avon Books in 1990,
 ISBN 0-380-75847-4,
 abbreviated as I<HA>.
+
+=item *
+
+I<Bullseye One Reactor> written by  Dan McKinnon published by House of
+Hits  Publishing  in 1987  and  by  Airlife  Publishing Ltd  in  1988,
+abbreviated  as   I<B1R>.  For  the   ISBN,  I  am  puzzled.   On  the
+administrative page at  the beginning of the book, there  is a sticker
+with number 1 85310 033 1 and on  the flap of the book cover, the ISBN
+is 1 85310 032 3. Take your pick.
 
 =back
 
@@ -594,7 +603,7 @@ Early warning and target designation radar, FDC 759.
 
 =item Straight Flush
 
-Gainful surveillance and tracking radar, PL 118, 120.
+Gainful surveillance and tracking radar, PL 118, 120, B1R 134.
 
 =item Strut Curve
 
@@ -1123,7 +1132,7 @@ Tu supersonic bomber, JWARH 37, AWA 392, HTMW 165+436.
 =item Blinder
 
 Tu-22 bomber, JWARH 37, 132, LFDC 368, FDC 774, AWA 392, HTMW 165+436,
-S&V 91. Mentioned in RSR.
+S&V 91, B1R 31. Mentioned in RSR.
 
 =item Blowlamp
 
@@ -1361,8 +1370,8 @@ Su-9/Su-11 fighter, PL 222, JWARH 38, 176, AWA 392.
 =item Fitter
 
 Su-7  fighter  (Fitter A)  or  Su-17/20/22  variable geometry  fighter
-(Fitter C  and D) or Su-17 fighter  (Fitter K), PL 212,  JWARH 38, 57,
-186, ASu, FDC 775, AWA 392, SPIAW, HTMW 165.
+(Fitter C, D and H) or Su-17 fighter (Fitter K), PL 212, JWARH 38, 57,
+186, ASu, FDC 775, AWA 392, SPIAW, HTMW 165, B1R 31.
 
 =item Flagon
 
@@ -1381,7 +1390,8 @@ Yak-25 and Yak-27 fighters, AWA 392.
 
 MiG-23 variable geometry fighter (Flogger  A and G) or MiG-27 variable
 geometry fighter (Flogger  D and J), PL 210, JWARH  38, 184, 185, ASu,
-ASt, DF, AWA 392, SPIAW, HTMW 165, S&V 92.  Mentioned in RSR.
+ASt, DF, AWA 392,  SPIAW, HTMW 165, S&V 92, B1R  31, 130. Mentioned in
+RSR.
 
 =item Flora
 
@@ -1692,7 +1702,7 @@ SA-11 / SA-N-7 anti-aircraft missile, PL 114, FDC 755.
 
 =item Gainful
 
-SA-6 ground-to-air missile, PL 118, SPIAW.
+SA-6 ground-to-air missile, PL 118, SPIAW, B1R 133.
 
 =item Ganef
 

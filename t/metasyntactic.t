@@ -1,6 +1,6 @@
 #
 #     Test script for Acme::MetaSyntactic::soviet
-#     Copyright (C) 2008, 2012, 2016 Jean Forget
+#     Copyright (C) 2008, 2012, 2016, 2021 Jean Forget
 #
 #     This program is distributed under the same terms as Perl 5.16.3:
 #     GNU Public License version 1 or later and Perl Artistic License

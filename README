@@ -29,13 +29,13 @@ You can also look for information at:
     meta::CPAN
         https://metacpan.org/pod/Acme::MetaSyntactic::soviet
 
-    RT, CPAN's request tracker
-        http://rt.cpan.org/NoAuth/Bugs.html?Dist=Acme-MetaSyntactic-soviet
+Please report problems with Github's issues tracker:
+        https://github.com/jforget/Acme-MetaSyntactic-soviet/issues
 
 
 COPYRIGHT AND LICENCE
 
-Copyright (C) 2008, 2012, 2016 Jean Forget
+Copyright (C) 2008, 2012, 2016, 2021 Jean Forget
 
 This program is free software; you can redistribute it and you can modify it
 under the same terms as Perl itself.

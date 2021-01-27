@@ -1,7 +1,7 @@
 # -*- encoding: utf-8; indent-tabs-mode: nil -*-
 #
 #     Acme::MetaSyntactic::soviet -- NATO codenames for Soviet-designed equipment
-#     Copyright (C) 2008, 2012, 2016 Jean Forget
+#     Copyright (C) 2008, 2012, 2016, 2021 Jean Forget
 #
 #     See the license in the embedded documentation below.
 #
@@ -1937,12 +1937,18 @@ L<Acme::MetaSyntactic>, L<Acme::MetaSyntactic::MultiList>.
 
 =head1 BUGS
 
-Please report any bugs or feature requests to
-C<bug-acme-metasyntactic-soviet at rt.cpan.org>,
-or through the web interface at
-L<http://rt.cpan.org/NoAuth/ReportBug.html?Queue=Acme-MetaSyntactic-soviet>.
-I will be notified, and then you'll automatically be notified of
-progress on your bug as I make changes.
+Please   report  any   bugs   or  feature   requests   to  Github   at
+C<https://github.com/jforget/Acme-MetaSyntactic-soviet/issues>,    and
+create an issue or submit a pull request.
+
+If you have no feedback after a week  or so, you can reach me by email
+at JFORGET  at cpan dot org.  Please mention the distribution  name in
+the subject, so  my spam filter and me will  easily dispatch the email
+to the proper folder.
+
+On the other hand, I may be on vacation. Do not be upset if the answer
+arrives after one or  two months. Be upset only if  you do not receive
+an answer to several emails over at least one year.
 
 =head1 SUPPORT
 
@@ -1953,10 +1959,6 @@ You can find documentation for this module with the perldoc command.
 You can also look for information at:
 
 =over 4
-
-=item * RT: CPAN's request tracker
-
-L<http://rt.cpan.org/NoAuth/Bugs.html?Dist=Acme-MetaSyntactic-soviet>
 
 =item * MetaCPAN
 
@@ -1972,10 +1974,10 @@ L<https://github.com/jforget/Acme-MetaSyntactic-soviet>
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright  2008, 2012, 2016  Jean Forget,  all rights  reserved.  This
-program is  free software;  you can redistribute  it and/or  modify it
-under the same  terms as Perl itself: GNU Public  License version 1 or
-later and Perl Artistic License.
+Copyright 2008,  2012, 2016,  2021 Jean  Forget, all  rights reserved.
+This program is  free software; you can redistribute  it and/or modify
+it under the  same terms as Perl itself: GNU  Public License version 1
+or later and Perl Artistic License.
 
 The full text of the license can be found in the F<LICENSE> file included
 with this module or at

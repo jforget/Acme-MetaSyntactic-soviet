@@ -1,6 +1,6 @@
 Acme-MetaSyntactic-soviet
 
-This module is a theme for Acme::MetaSyntactic, giving the NATO 
+This module is a theme for Acme::MetaSyntactic, giving the NATO
 codenames for various Soviet equipments.
 
 INSTALLATION
@@ -9,10 +9,10 @@ To install this module, use the CPAN shell or cpanminus.
 
 Or you can use the manual way by running the following commands:
 
-	perl Makefile.PL
-	make
-	make test
-	make install
+        perl Makefile.PL
+        make
+        make test
+        make install
 
 There is also a Build.PL file, but since Module::Build is no longer recommended,
 this installation procedure has not been tested for this version.

@@ -143,10 +143,11 @@ Jean Forget
 
 =head1 SOURCES
 
-Note: I  have used  only sources published  I<before> the fall  of the
-Soviet Union. Therefore, the  module name is C<A::MS::soviet>, with no
-"ex-"  prefix.  For  each entry,  the  sources are  listed, with  page
-numbers for the books. The games use data cards, which are unnumbered.
+Note: I  have used only  sources published  I<before> the fall  of the
+Soviet Union. Therefore, the module  name is C<A::MS::soviet>, with no
+"ex-"  prefix. For  each  entry,  the sources  are  listed, with  page
+numbers  for  most  books.  The   games  use  data  cards,  which  are
+unnumbered.
 
 Some sources, especially early  sources, may contain some errors. Some
 equipment  may appear with  faulty intelligence  reports which  give a
@@ -181,7 +182,8 @@ abbreviated as I<JWARH>.
 I<Air Superiority>
 designed by J.D. Webster
 and published by GDW in 1987
-(ISBN 0-943580-19-6)
+(ISBN 0-943580-19-6) see
+L<https://boardgamegeek.com/boardgame/3613/air-superiority>
 abbreviated as I<ASu>.
 
 =item *
@@ -189,7 +191,8 @@ abbreviated as I<ASu>.
 I<Air Strike>
 designed by J.D. Webster
 and published by GDW in 1987
-(ISBN 0-943580-30-7)
+(ISBN 0-943580-30-7), see
+L<https://boardgamegeek.com/boardgameexpansion/3614/air-strike>
 abbreviated as I<ASt>.
 
 =item *
@@ -197,7 +200,8 @@ abbreviated as I<ASt>.
 I<Desert Falcons>
 designed by J.D. Webster
 and published by GDW in 1988
-(ISBN 0-943580-97-8)
+(ISBN 0-943580-97-8), see
+L<https://boardgamegeek.com/boardgame/8474/desert-falcons>
 abbreviated as I<DF>.
 
 =item *
@@ -233,7 +237,8 @@ abbreviated as I<AWA>.
 I<Air War>
 designed by David Isby
 published in 1977 by SPI and then in 1983 by TSR
-(no ISBN)
+(no ISBN), see
+L<https://boardgamegeek.com/boardgame/1629/air-war-modern-tactical-air-combat>
 abbreviated as I<SPIAW>.
 
 =item *
@@ -264,7 +269,8 @@ without trying to give an exhaustive list of some category or other.
 I<Rolling Thunder>
 designed by Steve Weiss
 published by Group Three Games in 1985
-(no ISBN)
+(no ISBN), see
+L<https://boardgamegeek.com/boardgame/6228/rolling-thunder>
 abbreviated as I<RT>.
 
 =item *
@@ -309,6 +315,12 @@ abbreviated  as   I<B1R>.  For  the   ISBN,  I  am  puzzled.   On  the
 administrative page at  the beginning of the book, there  is a sticker
 with number 1 85310 033 1 and on  the flap of the book cover, the ISBN
 is 1 85310 032 3. Take your pick.
+
+=item *
+
+I<Air Warfare in the Missile Age> by Lon O. Nordeen, Jr., published by
+the Smithsonian  Institution in 1985  and by  Air and Armour  Press in
+1985, ISBN 0-85368-751-X, abbreviated as I<AWMA>.
 
 =back
 
@@ -399,7 +411,7 @@ Target tracking radar, FDC 759.
 
 =item Fan Song
 
-Guidance radar for SA-2 missiles, mentioned in RT.
+Guidance radar for SA-2 missiles, mentioned in RT and AWMA.
 
 =item Fire Dome
 
@@ -431,7 +443,7 @@ Submarine mounted radar, FDC 759.
 
 =item Gun Dish
 
-ZSU-23-4 fire control radar, PL 105, mentioned in RT.
+ZSU-23-4 fire control radar, PL 105, mentioned in RT and AWMA.
 
 =item Half Cup
 
@@ -467,7 +479,7 @@ Surveillance, acquisition and tracking radar, PL 104.
 
 =item Jay Bird
 
-Radar on MiG-21MF and MiG-21bis, ASu.
+Radar on MiG-21MF and MiG-21bis, ASu and AWMA.
 
 =item Kite Screech
 
@@ -480,6 +492,10 @@ Gopher and Gecko fire control radar, PL 113, 117.
 =item Long Track
 
 Gainful and Ganef warning and acquisition radar, PL 118, 119, 121.
+
+=item Low Blow
+
+Radar used by SA-3 Goa, mentioned in AWMA.
 
 =item Muff Cob
 
@@ -587,7 +603,7 @@ Submarine mounted radar, FDC 759.
 
 =item Spin Scan
 
-Radar on MiG-21MF, ASu.
+Radar on MiG-21MF, ASu and AWMA.
 
 =item Spin Trough
 
@@ -603,7 +619,7 @@ Early warning and target designation radar, FDC 759.
 
 =item Straight Flush
 
-Gainful surveillance and tracking radar, PL 118, 120, B1R 134.
+Gainful surveillance and tracking radar, PL 118, 120, B1R 134, AWMA.
 
 =item Strut Curve
 
@@ -937,8 +953,8 @@ Nuclear-powered attack submarine (SSN), FDC 793. Mentioned in HTMW 224 as Echo I
 
 =item Echo II
 
-Nuclear-powered aerodynamic missile submarine (SSGN), FDC 786
-or nuclear-powered auxiliary / rescue submarine (SSAN), FDC 797.
+Nuclear-powered  aerodynamic  missile  submarine (SSGN),  FDC  786  or
+nuclear-powered auxiliary / rescue submarine (SSAN), FDC 797.
 
 =item Echo II Mod
 
@@ -1094,7 +1110,7 @@ RSR.
 =item Badger
 
 Tu-16  bomber,  JWARH  37,  93,  LFDC  368, FDC  774,  AWA  392,  HTMW
-165+267+436.  A prominent character in RSR.
+165+267+436, AWMA.  A prominent character in RSR.
 
 =item Bank
 
@@ -1268,7 +1284,8 @@ An-24 transport aircraft, JWARH 37, 286, AWA 392.
 
 =item Colt
 
-An-2 WW-2 vintage biplane transport aircraft, JWARH 37, 469, AWA 392.
+An-2 WW-2 vintage biplane transport  aircraft, JWARH 37, 469, AWA 392,
+AWMA.
 
 =item Condor
 
@@ -1320,7 +1337,7 @@ An-26 transport aircraft, PL 220, JWARH 38, 286, AWA 392.
 
 =item Fagot
 
-MiG-15bis, JWARH 38, DF, AWA 392, SPIAW.
+MiG-15bis, JWARH 38, DF, AWA 392, SPIAW, AWMA.
 
 =item Fang
 
@@ -1336,7 +1353,7 @@ MiG-9 fighter, AWA 392.
 
 =item Farmer
 
-MiG-19 fighter, PL 213, JWARH 38, 56, DF, AWA 392, SPIAW.
+MiG-19 fighter, PL 213, JWARH 38, 56, DF, AWA 392, SPIAW, AWMA.
 
 =item Feather
 
@@ -1345,7 +1362,7 @@ Yak-17 fighter, AWA 392.
 =item Fencer
 
 Su-24 variable  geometry strike fighter,  PL 211, JWARH 38,  187, ASt,
-AWA 392, HTMW 165. Or Su-19 according to SPIAW and S&V 92.
+AWA 392, HTMW 165, AWMA. Or Su-19 according to SPIAW and S&V 92.
 
 =item Fiddler
 
@@ -1361,7 +1378,8 @@ Yak-28 fighter, PL 222, JWARH 38, 98, AWA 392.
 
 =item Fishbed
 
-MiG-21 fighter, PL 211, JWARH 38, 177, ASu, DF, AWA 392, SPIAW, HTMW 165, S&V 91.
+MiG-21 fighter, PL  211, JWARH 38, 177, ASu, DF,  AWA 392, SPIAW, HTMW
+165, S&V 91, AWMA.
 
 =item Fishpot
 
@@ -1371,7 +1389,7 @@ Su-9/Su-11 fighter, PL 222, JWARH 38, 176, AWA 392.
 
 Su-7  fighter  (Fitter A)  or  Su-17/20/22  variable geometry  fighter
 (Fitter C, D and H) or Su-17 fighter (Fitter K), PL 212, JWARH 38, 57,
-186, ASu, FDC 775, AWA 392, SPIAW, HTMW 165, B1R 31.
+186, ASu, FDC 775, AWA 392, SPIAW, HTMW 165, B1R 31, AWMA.
 
 =item Flagon
 
@@ -1390,8 +1408,8 @@ Yak-25 and Yak-27 fighters, AWA 392.
 
 MiG-23 variable geometry fighter (Flogger  A and G) or MiG-27 variable
 geometry fighter (Flogger  D and J), PL 210, JWARH  38, 184, 185, ASu,
-ASt, DF, AWA 392,  SPIAW, HTMW 165, S&V 92, B1R  31, 130. Mentioned in
-RSR.
+ASt,  DF,  AWA 392,  SPIAW,  HTMW  165, S&V  92,  B1R  31, 130,  AWMA.
+Mentioned in RSR.
 
 =item Flora
 
@@ -1405,7 +1423,7 @@ Yak-38 VSTOL  fighter, PL 214,  JWARH 38, 64,  FDC 775, AWA  392, HTMW
 =item Foxbat
 
 MiG-25 interceptor,  PL 223, 224,  JWARH 38,  85, DF, AWA  392, SPIAW,
-HTMW 165, S&V 91. Mentioned in RSR.
+HTMW 165, S&V 91, AWMA. Mentioned in RSR.
 
 =item Foxhound
 
@@ -1421,7 +1439,7 @@ Lend-lease P-63 fighter, AWA 392.
 
 =item Fresco
 
-MiG-17 fighter, PL 213, JWARH 38, 55, DF, AWA 392, SPIAW.
+MiG-17 fighter, PL 213, JWARH 38, 55, DF, AWA 392, SPIAW, AWMA.
 
 =item Fritz
 
@@ -1494,7 +1512,8 @@ Yak-18 trainer, JWARH 39, 360, AWA 392.
 
 =item May
 
-Il-38 maritime reconnaissance aircraft, JWARH 39, 316, FDC 775, AWA 392, HTMW 267. Mentioned in RSR.
+Il-38 maritime  reconnaissance aircraft, JWARH  39, 316, FDC  775, AWA
+392, HTMW 267. Mentioned in RSR.
 
 =item Maya
 
@@ -1530,7 +1549,8 @@ Lend-lease PBY Catalina, AWA 392.
 
 =item Moss
 
-Tu-126 airborne early warning aircraft, JWARH 39, 122, AWA 392, HTMW 267.
+Tu-126 airborne early  warning aircraft, JWARH 39, 122,  AWA 392, HTMW
+267, AWMA.
 
 =item Mote
 
@@ -1654,7 +1674,7 @@ the same.
 
 =item Acrid
 
-AA-6 air-to-air missile, PL 223, JWARH 30, DF, SPIAW, HTMW 174.
+AA-6 air-to-air missile, PL 223, JWARH 30, DF, SPIAW, HTMW 174, AWMA.
 
 =item Alamo
 
@@ -1662,7 +1682,7 @@ AA-10 air-to-air missile, PL 225, ASu, DF, HTMW 174.
 
 =item Alkali
 
-AA-1 air-to-air missile, PL 213, SPIAW.
+AA-1 air-to-air missile, PL 213, SPIAW, AWMA.
 
 =item Amos
 
@@ -1674,11 +1694,13 @@ AA-3 air-to-air missile, PL 222, JWARH 29, ASu, SPIAW, HTMW 174.
 
 =item Apex
 
-AA-7 air-to-air missile, PL 208, 210, 211, 224, JWARH 29, ASu, SPIAW, HTMW 174.
+AA-7 air-to-air missile, PL 208, 210,  211, 224, JWARH 29, ASu, SPIAW,
+HTMW 174, AWMA.
 
 =item Aphid
 
-AA-8 air-to-air missile, PL 208, 210, 211, 214, 224, JWARH 29, ASu, SPIAW, HTMW 174.
+AA-8 air-to-air  missile, PL 208, 210,  211, 214, 224, JWARH  29, ASu,
+SPIAW, HTMW 174, AWMA.
 
 =item Archer
 
@@ -1690,11 +1712,12 @@ AA-5 air-to-air missile, PL 223, JWARH 29, DF.
 
 =item Atoll
 
-AA-2 air-to-air missile, PL 210, 213, 222, JWARH 30, DF, SPIAW, HTMW 174. Mentioned in RT, F2 and THFRO.
+AA-2 air-to-air missile,  PL 210, 213, 222, JWARH 30,  DF, SPIAW, HTMW
+174, AWMA. Mentioned in RT, F2 and THFRO.
 
 =item Frog
 
-PL 96.
+Backcronym for "Free Rocket Over Ground", PL 96, AWMA.
 
 =item Gadfly
 
@@ -1702,7 +1725,7 @@ SA-11 / SA-N-7 anti-aircraft missile, PL 114, FDC 755.
 
 =item Gainful
 
-SA-6 ground-to-air missile, PL 118, SPIAW, B1R 133.
+SA-6 ground-to-air missile, PL 118, SPIAW, B1R 133, AWMA.
 
 =item Ganef
 
@@ -1714,7 +1737,7 @@ SA-9 ground-to-air missile, PL 116.
 
 =item Gecko
 
-SA-8 / SA-N-4 anti-aircraft missile, PL 117, FDC 755.
+SA-8 / SA-N-4 anti-aircraft missile, PL 117, FDC 755, AWMA.
 
 =item Gladiator
 
@@ -1722,7 +1745,7 @@ SA-12 ground-to-air missile, PL 114.
 
 =item Goa
 
-SA-N-1 anti-aircraft missile, LFDC 367, FDC 755, SPIAW.
+SA-3 / SA-N-1 anti-aircraft missile, LFDC 367, FDC 755, SPIAW, AWMA.
 
 =item Goblet
 
@@ -1734,7 +1757,8 @@ SA-13 ground-to-air missile, PL 113.
 
 =item Grail
 
-SA-7 / SA-N-5 anti-aircraft missile, FDC 755, SPIAW. RT gives a Russian name, I<Strela>.
+SA-7 / SA-N-5 anti-aircraft missile, FDC  755, SPIAW, AWMA. RT gives a
+Russian name, I<Strela>.
 
 =item Gremlin
 
@@ -1746,7 +1770,7 @@ SA-10 / SA-N-6 anti-aircraft missile, PL 115, FDC 755.
 
 =item Guideline
 
-SA-2 / SNA-1 anti-aircraft missile, LFDC 367, SPIAW.
+SA-2 / SNA-1 anti-aircraft missile, LFDC 367, SPIAW, AWMA.
 
 =item Kangaroo
 
@@ -1764,7 +1788,8 @@ AS-14 air-to-ground missile, PL 211, 226.
 
 =item Kelt
 
-AS-5 air-to-ground missile, JWARH 25, FDC 756, HTMW 174. Mentioned in RSR.
+AS-5  air-to-ground  missile,  JWARH  25, FDC  756,  HTMW  174,  AWMA.
+Mentioned in RSR.
 
 =item Kennel
 
@@ -1796,7 +1821,8 @@ AS-9 air-to-ground missile, FDC 756.
 
 =item Sagger
 
-AT-3 Antiarmour missile mounted on BMP-1, BMD-1, BVP-80A, OT-64C, BRDM-2, BRDM, PL 37, 38, 40, 49, 57, 59, 60, 227, HTMW 90.
+AT-3  Antiarmour missile  mounted  on BMP-1,  BMD-1, BVP-80A,  OT-64C,
+BRDM-2, BRDM, PL 37, 38, 40, 49, 57, 59, 60, 227, HTMW 90, AWMA.
 
 =item Sampson
 
@@ -1824,7 +1850,7 @@ SS-NX-24 cruise missile, FDC 755.
 
 =item Scud
 
-SS1-C, PL 96.
+SS1-C, PL 96, AWMA.
 
 =item Serb
 
@@ -1900,7 +1926,7 @@ SS-N-20 ballistic missile, FDC 754. THFRO gives it the name "Seahawk".
 
 =item Styx
 
-SS-N-2 anti-ship missile, LFDC 367, FDC 754.
+SS-N-2 anti-ship missile, LFDC 367, FDC 754, AWMA.
 
 =item Sunburn
 

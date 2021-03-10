@@ -32,6 +32,29 @@ You can also look for information at:
 Please report problems with Github's issues tracker:
         https://github.com/jforget/Acme-MetaSyntactic-soviet/issues
 
+WHY THIS THEME ABOUT SOVIET STUFF?
+
+First, because Acme::MetaSyntactic is fun.
+
+Second: As a wargamer interested (among  other eras) in the air combat
+and the  naval combat in  the second half of  the XXth century,  be it
+hypothetical wars or historical wars, I have no problems to find lists
+of Soviet  aircraft with their  NATO designations and  Soviet missiles
+with  their   NATO  designations.  On   the  other  hand,   finding  a
+comprehensive list of radars or sonars is difficult. When I discovered
+Internet and the web, I had hope  finding a website that would give me
+the list I did not find in printed books. No luck.
+
+So, I  would have to  build myself a webpage  with the list  of soviet
+radars.  When I  saw how  search.cpan.org  would render  POD files,  I
+decided to format the  list as a POD file and to  have it displayed by
+search.cpan.org. How would I do that? By writing a Perl module.
+
+Since  then,  search.cpan.org  has   disappeared  from  the  web,  but
+metacpan.org does a  POD rendering as good  as search.cpan.org. That's
+OK for me. So I know there is a webpage listing all soviet radars with
+their  NATO designation,  this webpage  is the  POD documentation  for
+Acme::MetaSyntactic::soviet.
 
 COPYRIGHT AND LICENCE
 

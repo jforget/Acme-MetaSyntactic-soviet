@@ -396,11 +396,7 @@ Target tracking radar, FDC 759.
 
 =item Dog Ear
 
-2S6 and Gaskin fire control radar, PL 104, 116.
-
-=item Dog Ear
-
-Warning and acquisition radar, PL 122.
+2S6 and SA-9 Gaskin warning and acquisition radar, PL 104, 116, 122.
 
 =item Don Kay
 
@@ -428,11 +424,11 @@ Guidance radar for SA-2 missiles, mentioned in RT and AWMA.
 
 =item Fire Dome
 
-Gadfly fire control radar, PL 114.
+SA-11 Gadfly fire control radar, PL 114.
 
 =item Flap Lid
 
-Grumble fire control radar, PL 115.
+SA-10 Grumble fire control radar, PL 115.
 
 =item Flat Face
 
@@ -500,11 +496,11 @@ Gun control radar, FDC 759.
 
 =item Land Roll
 
-Gopher and Gecko fire control radar, PL 113, 117.
+SA-13 Gopher and SA-8 Gecko fire control radar, PL 113, 117.
 
 =item Long Track
 
-Gainful and Ganef warning and acquisition radar, PL 118, 119, 121.
+SA-6 Gainful and SA-4 Ganef warning and acquisition radar, PL 118, 119, 121.
 
 =item Low Blow
 
@@ -524,7 +520,7 @@ Naigation radar, FDC 758.
 
 =item Pat Hand
 
-Ganef warning and acquisition radar, PL 119.
+SA-4 Ganef acquisition and tracking radar, PL 119.
 
 =item Peel Cone
 
@@ -637,7 +633,7 @@ Early warning and target designation radar, FDC 759.
 
 =item Straight Flush
 
-Gainful surveillance and tracking radar, PL 118, 120, B1R 134, AWMA.
+SA-6 Gainful surveillance and tracking radar, PL 118, 120, B1R 134, AWMA.
 
 =item Strut Curve
 
@@ -657,7 +653,7 @@ Radar mounted on some variants of the BRM reco vehicle, PL 11.
 
 =item Thin Skin
 
-Gainful aircraft altitude acquisition radar, PL 118, 121.
+SA-6 Gainful aircraft altitude acquisition radar, PL 118, 121.
 
 =item Top Dome
 

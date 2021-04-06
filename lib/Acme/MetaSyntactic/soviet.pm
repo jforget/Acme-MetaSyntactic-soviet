@@ -2048,8 +2048,8 @@ or later and Perl Artistic License.
 
 The full text of the license can be found in the F<LICENSE> file included
 with this module or at
-L<http://www.perlfoundation.org/artistic_license_1_0> and
-L<http://www.gnu.org/licenses/gpl-1.0.html>.
+L<https://dev.perl.org/licenses/artistic.html>
+and L<https://www.gnu.org/licenses/gpl-1.0.html>.
 
 Here is the summary of GPL:
 
@@ -2063,11 +2063,13 @@ WITHOUT   ANY  WARRANTY;   without  even   the  implied   warranty  of
 MERCHANTABILITY  or FITNESS  FOR A  PARTICULAR PURPOSE.   See  the GNU
 General Public License for more details.
 
-You  should have received  a copy  of the  GNU General  Public License
-along with this program; if not, see <http://www.gnu.org/licenses/> or
-write to the Free  Software Foundation, Inc., L<http://fsf.org>.  This
-program is free  software; you can redistribute it  and you can modify
-it under the same terms as Perl itself.
+You should  have received  a copy  of the  GNU General  Public License
+along with this program; if not, see
+L<https://www.gnu.org/licenses/gpl-1.0.html>   or  contact   the  Free
+Software Foundation, Inc., L<https://www.fsf.org/>.
+
+This program  is free software;  you can  redistribute it and  you can
+modify it under the same terms as Perl itself.
 
 =cut
 

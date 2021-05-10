@@ -4,7 +4,6 @@ See Merijn's checklist:
 https://github.com/Tux/Release-Checklist/blob/master/Checklist.md
 
 Check GPL-mandated comments (including electronic address of FSF) in:
--- Build.PL
 -- Makefile.PL
 -- lib/Acme/MetaSyntactic/soviet.pm top-file comments
 -- lib/Acme/MetaSyntactic/soviet.pm POD "COPYRIGHT" paragraph
@@ -13,13 +12,11 @@ Check GPL-mandated comments (including electronic address of FSF) in:
 Check version number in:
 -- Changes
 -- README
--- Build.PL (no: 'version_from')
 -- Makefile.PL
 -- (2x) lib/Acme/MetaSyntactic/soviet.pm, code ($VERSION) and POD (=head1 VERSION)
 
 Check copyright years in:
 -- README
--- Build.PL
 -- lib/Acme/MetaSyntactic/soviet.pm top-file comments
 -- lib/Acme/MetaSyntactic/soviet.pm POD "COPYRIGHT" paragraph
 -- t/*.t
@@ -77,12 +74,13 @@ After release
 =============
 
 Github:
-    git tag -m 'Release to CPAN' v0.05
-    git push --tags -u origin master
+    git tag -m 'Release to CPAN' v0.06
 
 Change version number in:
 -- Changes
 -- Makefile.PL
 -- lib/Acme/MetaSyntactic/soviet.pm
 
+Github:
+    git push --tags -u origin master
 
